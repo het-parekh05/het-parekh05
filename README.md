@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Gigantic Hero Banner (Purple) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=HEY,%20I'M%20HET%20PAREKH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hey,%20I'm%20Het%20Parekh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
 
 <br><br>
 
@@ -11,9 +11,15 @@
 
 <br>
 
+<!-- Live Status Dashboard -->
+[![Status: Building](https://img.shields.io/badge/Status-Building_Ideas_🚀-7C3AED?style=for-the-badge)](#)
+[![Focus: C++ & DSA](https://img.shields.io/badge/Focus-C++_&_DSA-22D3EE?style=for-the-badge)](#)
+
+<br><br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=het.parekhh05@gmail.com)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
 
 <br><br><br>
@@ -135,7 +141,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=het.parekhh05@gmail.com)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
 
 <br><br>
@@ -143,6 +149,15 @@
 <img src="https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 <br><br><br>
+
+<!-- Interactive Easter Egg -->
+<details align="center">
+  <summary><b>👀 Click here for a secret</b></summary>
+  <br>
+  <i>"I see you inspecting my README. If you're reading this, we should definitely connect!"</i>
+</details>
+
+<br><br>
 
 ---
 
