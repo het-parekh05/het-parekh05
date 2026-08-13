@@ -5,25 +5,22 @@
 Building interactive software, exploring AI, and solving problems through code.
 
 <p align="left">
-  <a href="https://github.com/het-parekh05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://hetparekh.qzz.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/het-parekh-9448492a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:het.parekhh05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-hettt.2305-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://github.com/het-parekh05">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🚀 Currently Building
-
-### 🧠 Algo Nova
-
-**Learn Algorithms. Visualize Logic.**
-
-An interactive DSA learning platform designed to make Data Structures and Algorithms easier to understand through visualization, practice, and hands-on learning.
-
-> 🚧 Currently in development
 
 ---
 
@@ -31,25 +28,25 @@ An interactive DSA learning platform designed to make Data Structures and Algori
 
 ### Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,sql" />
 </p>
 
 ### Web Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ### Cloud
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,oracle" />
 </p>
 
@@ -57,19 +54,19 @@ An interactive DSA learning platform designed to make Data Structures and Algori
 
 ## 🧠 Currently Learning
 
-- Data Structures and Algorithms
-- Problem Solving with C++
-- React
-- AI Integration
-- Cloud Technologies
+* Data Structures and Algorithms
+* Problem Solving with C++
+* React
+* AI Integration
+* Cloud Technologies
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Oracle Data Platform 2025 Certified Foundations Associate
+* Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+* Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+* Oracle Data Platform 2025 Certified Foundations Associate
 
 ---
 
@@ -83,13 +80,7 @@ An AI-powered certification and document authenticity platform combining AI, OCR
 
 ---
 
-## 📊 GitHub Activity
-
-I'm actively building, learning, and contributing to projects across software development, DSA, AI, and cloud technologies.
-
----
-
-## 🎮 Contribution Game
+## 🎮 Contribution Arcade
 
 <p align="center">
   <picture>
@@ -103,13 +94,18 @@ I'm actively building, learning, and contributing to projects across software de
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
+  <a href="https://hetparekh.qzz.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-hetparekh.qzz.io-7C3AED?style=for-the-badge" />
+  </a>
+  <a href="mailto:het.parekhh05@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-het.parekhh05@gmail.com-EA4335?style=for-the-badge" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/🎮_Discord-hettt.2305-5865F2?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/het-parekh-9448492a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/het-parekh05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
