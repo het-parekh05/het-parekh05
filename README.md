@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Futuristic Animated Background Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Het%20Parekh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=55&descSize=20" alt="Header Banner" />
+<!-- Gigantic Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=HEY,%20I'M%20HET%20PAREKH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
 
 <br>
 
@@ -26,13 +26,21 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  Computer Engineering student who enjoys building, breaking, and rebuilding things.<br>
-  Exploring DSA, web development, AI, and cloud technologies.<br>
-  I learn best by turning ideas into working projects.<br>
-  Currently sharpening my problem-solving skills with C++.<br>
-  Always experimenting with something new.
-</p>
+<!-- Readable 2-Column Layout -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="85%">
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="130" alt="Developer Avatar" />
+    </td>
+    <td width="75%">
+      <h4>👨‍💻 Computer Engineering student who enjoys building, breaking, and rebuilding things.</h4>
+      <h4>🚀 Exploring DSA, web development, AI, and cloud technologies.</h4>
+      <h4>🧠 I learn best by turning ideas into working projects.</h4>
+      <h4>⚡ Currently sharpening my problem-solving skills with C++.</h4>
+      <h4>🎮 Always experimenting with something new.</h4>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
@@ -53,7 +61,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="80%">
   <tr>
     <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Web Dev</b></td>
+    <td align="center" width="25%"><b>Web Development</b></td>
     <td align="center" width="25%"><b>Tools</b></td>
     <td align="center" width="25%"><b>Cloud</b></td>
   </tr>
@@ -82,11 +90,26 @@
 
 <h2 align="center">📜 Certifications</h2>
 
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-2025_Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-2025_Certified_AI_Foundations_Associate-22D3EE?style=for-the-badge&logo=oracle&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Oracle_Data_Platform-2025_Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" />
+<!-- Styled Certification Cards -->
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h2>☁️</h2>
+      <h3>Oracle Cloud</h3>
+      <p><b>2025 Certified Foundations Associate</b></p>
+    </td>
+    <td align="center" width="33%">
+      <h2>🤖</h2>
+      <h3>Oracle Cloud</h3>
+      <p><b>2025 Certified AI Foundations Associate</b></p>
+    </td>
+    <td align="center" width="33%">
+      <h2>🗄️</h2>
+      <h3>Oracle Data Platform</h3>
+      <p><b>2025 Certified Foundations Associate</b></p>
+    </td>
+  </tr>
+</table>
 
 <br><br><br>
 
