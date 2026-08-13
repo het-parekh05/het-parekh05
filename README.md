@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Awesome Profile Views Counter -->
@@ -11,8 +10,8 @@
 
 <br><br>
 
-<!-- Awesome Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
+<!-- Awesome Typing SVG (Upscaled) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
 
 <br><br>
 
@@ -41,15 +40,6 @@
     </td>
   </tr>
 </table>
-
-<br><br>
-
-<!-- NEW: Awesome GitHub Stats Dashboard -->
-<h2 align="center">📈 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=het-parekh05&show_icons=true&theme=transparent&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&border_color=3B82F6&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het-parekh05&layout=compact&theme=transparent&title_color=3B82F6&text_color=ffffff&border_color=3B82F6&hide_border=true" alt="Top Languages" />
-</div>
 
 <br><br>
 
@@ -90,9 +80,10 @@
   AI-powered certification and document authenticity platform combining:<br>
   <code>AI</code> · <code>OCR</code> · <code>Cryptography</code> · <code>Blockchain</code>
 </p>
-
-<h1 align="center" style="color: #3B82F6; font-size: 54px; margin-bottom: 0;">TOP 50</h1>
-<p align="center"><b>Selected among 1,600+ submissions</b></p>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3B82F6&height=130&text=TOP%2050&fontSize=55&fontColor=ffffff&desc=Selected%20among%201,600%2B%20submissions&descAlignY=78&descSize=20" alt="Top 50 Banner" />
+</p>
 
 <br><br><br>
 
@@ -159,14 +150,7 @@
 
 <br><br><br>
 
----
-
-<br>
-<b>Building ideas into working software.</b>
-<br><br>
-
 <!-- Awesome Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
-```
