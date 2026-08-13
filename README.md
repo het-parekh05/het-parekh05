@@ -85,9 +85,7 @@ An AI-powered certification and document authenticity platform combining AI, OCR
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=het-parekh05&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
+I'm actively building, learning, and contributing to projects across software development, DSA, AI, and cloud technologies.
 
 ---
 
