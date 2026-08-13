@@ -1,7 +1,8 @@
+
 <div align="center">
 
 <!-- Gigantic Hero Banner (Purple) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=HEY,%20I'M%20HET%20PAREKH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=HEY,%20I'M%20HET%20PAREKH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
 
 <br><br>
 
@@ -10,9 +11,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
 
 <br><br><br>
@@ -39,12 +40,12 @@
 
 <h2 align="center">🎯 Current Focus</h2>
 
-[![DSA](https://img.shields.io/badge/01—Data_Structures_&_Algorithms-8B5CF6?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
+[![DSA](https://img.shields.io/badge/01—Data_Structures_&_Algorithms-7C3AED?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
 [![CPP](https://img.shields.io/badge/02—C++_Problem_Solving-22D3EE?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
-[![WebDev](https://img.shields.io/badge/03—Web_Development-8B5CF6?style=for-the-badge&logoColor=white)](#)
+[![WebDev](https://img.shields.io/badge/03—Web_Development-7C3AED?style=for-the-badge&logoColor=white)](#)
 <br><br>
 [![AI](https://img.shields.io/badge/04—AI_Integration-22D3EE?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
-[![Cloud](https://img.shields.io/badge/05—Cloud_Technologies-8B5CF6?style=for-the-badge&logoColor=white)](#)
+[![Cloud](https://img.shields.io/badge/05—Cloud_Technologies-7C3AED?style=for-the-badge&logoColor=white)](#)
 
 <br><br><br>
 
@@ -75,7 +76,7 @@
   <code>AI</code> · <code>OCR</code> · <code>Cryptography</code> · <code>Blockchain</code>
 </p>
 
-<h1 align="center" style="color: #8B5CF6; font-size: 54px; margin-bottom: 0;">TOP 50</h1>
+<h1 align="center" style="color: #7C3AED; font-size: 54px; margin-bottom: 0;">TOP 50</h1>
 <p align="center"><b>Selected among 1,600+ submissions</b></p>
 
 <br><br><br>
@@ -110,6 +111,14 @@
 
 <br><br><br>
 
+<h2 align="center">🎮 Beyond Code</h2>
+
+<p align="center">
+  <i>When I'm not coding, I'm usually gaming, experimenting with new ideas, or working on something that probably started with "this should be easy." 😭</i>
+</p>
+
+<br><br><br>
+
 <h2 align="center">🎮 Contribution Arcade</h2>
 
 <picture>
@@ -124,14 +133,14 @@
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
 
 <br><br>
 
-[![Discord](https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hettt.2305)
+<img src="https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 <br><br><br>
 
@@ -139,5 +148,10 @@
 
 <br>
 <b>Building ideas into working software.</b>
+<br><br>
+
+<!-- Footer Wave (Purple) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+```
