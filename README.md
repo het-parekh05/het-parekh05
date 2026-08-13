@@ -124,7 +124,7 @@
 
 <br><br>
 
-![Discord](https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hettt.2305)
 
 <br><br><br>
 
