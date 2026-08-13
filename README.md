@@ -1,16 +1,17 @@
+
 <div align="center">
 
 <!-- Awesome Profile Views Counter -->
 [![Views](https://komarev.com/ghpvc/?username=het-parekh05&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=white)](https://github.com/het-parekh05)
 
-<br>
-
-<!-- Awesome Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hey,%20I'm%20Het%20Parekh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
-
 <br><br>
 
-<!-- Awesome Typing SVG (Upscaled) -->
+<!-- Awesome Custom Header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=BFDBFE&height=130&section=header&text=👋%20Hey,%20I'm%20Het%20Parekh!&fontSize=50&fontColor=000000&animation=fadeIn" alt="Hero Banner" />
+
+<h3>Computer Engineering Student • Developer • Builder</h3>
+
+<!-- Awesome Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
 
 <br><br>
@@ -150,7 +151,23 @@
 
 <br><br><br>
 
+<!-- Interactive Easter Egg -->
+<details align="center">
+  <summary><b>👀 Click here for a secret</b></summary>
+  <br>
+  <i>"I see you inspecting my README. If you're reading this, we should definitely connect!"</i>
+</details>
+
+<br><br>
+
+---
+
+<br>
+<b>Building ideas into working software.</b>
+<br><br>
+
 <!-- Awesome Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+```
