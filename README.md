@@ -29,7 +29,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="85%">
   <tr>
     <td width="25%" align="center">
-      <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Het&backgroundColor=transparent&accessories=prescription02&clothing=blazerAndShirt&eyes=default&facialHair=default&hair=shortCurly&mouth=smile" width="130" alt="Techie Avatar" />
+     <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Het&backgroundColor=transparent&accessories=prescription02&clothing=blazerAndShirt&eyes=default&facialHair=default&hair=shortCurly&mouth=smile" width="130" alt="Techie Avatar" />
     </td>
     <td width="75%">
       <h4>👨‍💻 Computer Engineering student who enjoys building, breaking, and rebuilding things.</h4>
