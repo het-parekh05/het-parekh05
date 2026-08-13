@@ -9,18 +9,10 @@
 
 <br>
 
-<a href="https://hetparekh.qzz.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/het-parekh-9448492a2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-<a href="mailto:het.parekhh05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/het-parekh05" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
 
 <br><br><br>
 
@@ -29,7 +21,8 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="85%">
   <tr>
     <td width="25%" align="center">
-     <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Het&backgroundColor=transparent&accessories=prescription02&clothing=blazerAndShirt&eyes=default&facialHair=default&hair=shortCurly&mouth=smile" width="130" alt="Techie Avatar" />
+      <!-- To use a real photo, upload it to your repo and replace this link! -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="130" alt="Techie Avatar" />
     </td>
     <td width="75%">
       <h4>👨‍💻 Computer Engineering student who enjoys building, breaking, and rebuilding things.</h4>
@@ -45,14 +38,12 @@
 
 <h2 align="center">🎯 Current Focus</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/01—Data_Structures_&_Algorithms-8B5CF6?style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/02—C++_Problem_Solving-22D3EE?style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/03—Web_Development-8B5CF6?style=for-the-badge&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/04—AI_Integration-22D3EE?style=for-the-badge&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/05—Cloud_Technologies-8B5CF6?style=for-the-badge&logoColor=white" />
-</div>
+[![DSA](https://img.shields.io/badge/01—Data_Structures_&_Algorithms-8B5CF6?style=for-the-badge&logoColor=white)](#)
+[![CPP](https://img.shields.io/badge/02—C++_Problem_Solving-22D3EE?style=for-the-badge&logoColor=white)](#)
+[![WebDev](https://img.shields.io/badge/03—Web_Development-8B5CF6?style=for-the-badge&logoColor=white)](#)
+<br>
+[![AI](https://img.shields.io/badge/04—AI_Integration-22D3EE?style=for-the-badge&logoColor=white)](#)
+[![Cloud](https://img.shields.io/badge/05—Cloud_Technologies-8B5CF6?style=for-the-badge&logoColor=white)](#)
 
 <br><br><br>
 
@@ -126,22 +117,14 @@
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-<a href="https://hetparekh.qzz.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/het-parekh-9448492a2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;&nbsp;
-<a href="mailto:het.parekhh05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/het-parekh05" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:het.parekhh05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+![Discord](https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white)
 
 <br><br><br>
 
