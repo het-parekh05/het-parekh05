@@ -1,74 +1,148 @@
 <div align="center">
 
-<!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EAB308&height=250&section=header&text=Het%20Parekh&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
+# 👋 Hey, I'm Het Parekh
 
-<br><br>
+**Computer Engineering Student • Developer • Builder**
 
-<!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=800&size=24&pause=1000&color=EAB308&center=true&vCenter=true&width=600&lines=The+Archive+Ends+Here.+The+Next+Build+Starts+Here.;Turning+Ideas+Into+Real-World+Solutions.;Mastering+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
 
 <br>
 
-<!-- Social Links -->
 <a href="https://hetparekh.qzz.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-EAB308?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/het-parekh-9448492a2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:het.parekhh05@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/het-parekh05" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br><br>
+</div>
 
-<!-- Animated GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=het-parekh05&theme=radical&row=1&column=7&no-frame=true&no-bg=true&title-text-color=EAB308" alt="Trophies" />
+<br>
+<br>
 
+## About Me
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" width="120" alt="Developer Avatar" />
+    </td>
+    <td width="80%">
+      <blockquote>
+        👨‍💻 Computer Engineering student who enjoys building, breaking, and rebuilding things.<br>
+        🚀 Exploring DSA, web development, AI, and cloud technologies.<br>
+        🧠 I learn best by turning ideas into working projects.<br>
+        ⚡ Currently sharpening my problem-solving skills with C++.<br>
+        🎮 Always experimenting with something new.
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/01—Data_Structures_&_Algorithms-8B5CF6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/02—C++_Problem_Solving-22D3EE?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/03—Web_Development-8B5CF6?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/04—AI_Integration-22D3EE?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/05—Cloud_Technologies-8B5CF6?style=flat-square&logoColor=white" />
 </div>
 
 <br>
 
-## ⚡ Engineering Arsenal
+## 🛠️ Tech Stack
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center" width="25%"><b>Web Development</b></td>
+    <td align="center" width="25%"><b>Tools</b></td>
+    <td align="center" width="25%"><b>Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center"><br><img src="https://skillicons.dev/icons?i=cpp,java,py,js,mysql&perline=3" /></td>
+    <td align="center"><br><img src="https://skillicons.dev/icons?i=html,css,react&perline=3" /></td>
+    <td align="center"><br><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=2" /></td>
+    <td align="center"><br><img src="https://skillicons.dev/icons?i=gcp,azure&perline=2" /></td>
+  </tr>
+</table>
+
+<br>
+
+## 🏆 Hackathon Experience
+
+### 🔐 Authentify
+
+AI-powered certification and document authenticity platform combining:<br>
+`AI` · `OCR` · `Cryptography` · `Blockchain`
+
+<br>
+
+<h1 align="center" style="color: #8B5CF6; font-size: 48px; margin-bottom: 0;">TOP 50</h1>
+<p align="center"><b>Selected among 1,600+ submissions</b></p>
+
+<br>
+
+## 📜 Certifications
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,python,java,c,html,css,git,github,gcp&perline=7" />
-  </a>
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-2025_Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-2025_Certified_AI_Foundations_Associate-22D3EE?style=for-the-badge&logo=oracle&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Oracle_Data_Platform-2025_Certified_Foundations_Associate-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 <br>
 
-## 📊 Analytics & Impact
+## 🎮 Contribution Arcade
 
 <div align="center">
-  <!-- Live Stats and Streak Cards (Gold Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=het-parekh05&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=EAB308&title_color=EAB308&ring_color=EAB308" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=het-parekh05&theme=radical&hide_border=true&background=000000&ring=EAB308&fire=EAB308&currStreakLabel=EAB308" height="170" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Animated Live Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=het-parekh05&bg_color=000000&color=EAB308&line=EAB308&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="80%" />
-</div>
-
-<br>
-
-## 🐍 Activity Engine
-<div align="center">
-  <!-- Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph.svg">
   </picture>
+  <br>
+  <i><b>Every contribution leaves a mark.</b></i>
 </div>
 
-<div align="center">
 <br>
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EAB308&height=100&section=footer" />
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://hetparekh.qzz.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/het-parekh-9448492a2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:het.parekhh05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/het-parekh05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge" alt="Discord" />
 </div>
+
+---
+
+<p align="center">
+  <br>
+  <b>Building ideas into working software.</b>
+</p>
