@@ -1,26 +1,26 @@
 
 <div align="center">
 
-<!-- Gigantic Hero Banner (Purple) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hey,%20I'm%20Het%20Parekh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
-
-<br><br>
-
-<!-- Typing Text (Cyan) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
+<!-- Awesome Profile Views Counter -->
+[![Views](https://komarev.com/ghpvc/?username=het-parekh05&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=white)](https://github.com/het-parekh05)
 
 <br>
 
-<!-- Live Status Dashboard -->
-[![Status: Building](https://img.shields.io/badge/Status-Building_Ideas_🚀-7C3AED?style=for-the-badge)](#)
-[![Focus: C++ & DSA](https://img.shields.io/badge/Focus-C++_&_DSA-22D3EE?style=for-the-badge)](#)
+<!-- Awesome Waving Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hey,%20I'm%20Het%20Parekh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20•%20Developer%20•%20Builder&descAlignY=60&descSize=22" alt="Hero Banner" />
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=het.parekhh05@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
+<!-- Awesome Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;DSA+Enthusiast;AI+Explorer;Web+Developer;Building+%26+Learning" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Premium Two-Tone Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=3B82F6&labelColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=3B82F6&labelColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=het.parekhh05@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=white)](https://github.com/het-parekh05)
 
 <br><br><br>
 
@@ -44,14 +44,23 @@
 
 <br><br>
 
+<!-- NEW: Awesome GitHub Stats Dashboard -->
+<h2 align="center">📈 GitHub Analytics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=het-parekh05&show_icons=true&theme=transparent&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&border_color=3B82F6&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het-parekh05&layout=compact&theme=transparent&title_color=3B82F6&text_color=ffffff&border_color=3B82F6&hide_border=true" alt="Top Languages" />
+</div>
+
+<br><br>
+
 <h2 align="center">🎯 Current Focus</h2>
 
-[![DSA](https://img.shields.io/badge/01—Data_Structures_&_Algorithms-7C3AED?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
-[![CPP](https://img.shields.io/badge/02—C++_Problem_Solving-22D3EE?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
-[![WebDev](https://img.shields.io/badge/03—Web_Development-7C3AED?style=for-the-badge&logoColor=white)](#)
+[![DSA](https://img.shields.io/badge/01—Data_Structures_&_Algorithms-3B82F6?style=for-the-badge&labelColor=white&color=3B82F6)](#)&nbsp;&nbsp;
+[![CPP](https://img.shields.io/badge/02—C++_Problem_Solving-3B82F6?style=for-the-badge&labelColor=white&color=3B82F6)](#)&nbsp;&nbsp;
+[![WebDev](https://img.shields.io/badge/03—Web_Development-3B82F6?style=for-the-badge&labelColor=white&color=3B82F6)](#)
 <br><br>
-[![AI](https://img.shields.io/badge/04—AI_Integration-22D3EE?style=for-the-badge&logoColor=white)](#)&nbsp;&nbsp;
-[![Cloud](https://img.shields.io/badge/05—Cloud_Technologies-7C3AED?style=for-the-badge&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/04—AI_Integration-3B82F6?style=for-the-badge&labelColor=white&color=3B82F6)](#)&nbsp;&nbsp;
+[![Cloud](https://img.shields.io/badge/05—Cloud_Technologies-3B82F6?style=for-the-badge&labelColor=white&color=3B82F6)](#)
 
 <br><br><br>
 
@@ -82,7 +91,7 @@
   <code>AI</code> · <code>OCR</code> · <code>Cryptography</code> · <code>Blockchain</code>
 </p>
 
-<h1 align="center" style="color: #7C3AED; font-size: 54px; margin-bottom: 0;">TOP 50</h1>
+<h1 align="center" style="color: #3B82F6; font-size: 54px; margin-bottom: 0;">TOP 50</h1>
 <p align="center"><b>Selected among 1,600+ submissions</b></p>
 
 <br><br><br>
@@ -94,21 +103,21 @@
     <td align="center" width="33%">
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=4A5A5ED8F8581D930A7D5653E5839E09DC6E97DD325E4BDAF1FCAEF8AE6E7041" target="_blank" style="text-decoration: none;">
         <h2>☁️</h2>
-        <h3>Oracle Cloud</h3>
+        <h3 style="color: #3B82F6;">Oracle Cloud</h3>
         <p><b>2025 Certified Foundations Associate</b></p>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9E413B7262454D86227FE5992C8F0FAE91AAD4264A6B199C41AEFEA80F85BD81" target="_blank" style="text-decoration: none;">
         <h2>🤖</h2>
-        <h3>Oracle Cloud</h3>
+        <h3 style="color: #3B82F6;">Oracle Cloud</h3>
         <p><b>2025 Certified AI Foundations Associate</b></p>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=C980BA4499E66B90B47A77A7E03B9F1C09CC68E0C0E50793D4A1A29341EE5B35" target="_blank" style="text-decoration: none;">
         <h2>🗄️</h2>
-        <h3>Oracle Data Platform</h3>
+        <h3 style="color: #3B82F6;">Oracle Data Platform</h3>
         <p><b>2025 Certified Foundations Associate</b></p>
       </a>
     </td>
@@ -139,25 +148,16 @@
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=het.parekhh05@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/het-parekh05)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=3B82F6&labelColor=white)](https://hetparekh.qzz.io/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=3B82F6&labelColor=white)](https://www.linkedin.com/in/het-parekh-9448492a2/)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=het.parekhh05@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=white)](https://github.com/het-parekh05)
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎮_Discord-hettt.2305-black?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+[![Discord](https://img.shields.io/badge/Discord-3B82F6?style=for-the-badge&logo=discord&logoColor=3B82F6&labelColor=white)](https://discord.com/users/hettt.2305)
 
 <br><br><br>
-
-<!-- Interactive Easter Egg -->
-<details align="center">
-  <summary><b>👀 Click here for a secret</b></summary>
-  <br>
-  <i>"I see you inspecting my README. If you're reading this, we should definitely connect!"</i>
-</details>
-
-<br><br>
 
 ---
 
@@ -165,8 +165,8 @@
 <b>Building ideas into working software.</b>
 <br><br>
 
-<!-- Footer Wave (Purple) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%" alt="Footer Wave" />
+<!-- Awesome Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
 ```
