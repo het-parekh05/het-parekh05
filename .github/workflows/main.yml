@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Fetch GitHub contribution data
         env:
@@ -24,7 +26,7 @@ jobs:
             -H "Authorization: bearer $GH_TOKEN" \
             -H "Content-Type: application/json" \
             -d '{
-              "query": "query($login:String!, $from:DateTime!, $to:DateTime!) { user(login:$login) { contributionsCollection(from:$from, to:$to) { totalCommitContributions totalIssueContributions totalPullRequestContributions totalPullRequestReviewContributions restrictedContributionsCount contributionCalendar { totalContributions weeks { contributionDays { contributionCount date color } } } } } }",
+              "query": "query($login:String!, $from:DateTime!, $to:DateTime!) { user(login:$login) { contributionsCollection(from:$from, to:$to) { contributionCalendar { totalContributions weeks { contributionDays { contributionCount date color } } } } } }",
               "variables": {
                 "login": "het-parekh05",
                 "from": "2025-08-23T00:00:00Z",
@@ -43,41 +45,59 @@ jobs:
               data = json.load(f)
 
           if "errors" in data:
-              print(json.dumps(data, indent=2))
-              raise SystemExit("GitHub GraphQL returned an error.")
+              raise SystemExit(json.dumps(data["errors"], indent=2))
 
           calendar = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
 
           print("Total contributions:", calendar["totalContributions"])
           print("Weeks:", len(calendar["weeks"]))
-          print("Contribution days:",
-                sum(len(w["contributionDays"]) for w in calendar["weeks"]))
           PY
 
-      - name: Generate synchronized Pac-Man SVG
+      - name: Generate Pac-Man SVG
         run: |
           python scripts/generate_pacman.py contribution-data.json
 
+          echo "Checking generated SVG..."
+
+          if grep -Eiq '#(9be9a8|40c463|30a14e|216e39|0e4429|006d32|26a641|39d353)' /tmp/pacman-contribution-graph.svg; then
+            echo "ERROR: GitHub green detected in generated SVG."
+            exit 1
+          fi
+
+          echo "No GitHub green detected."
+
       - name: Publish generated SVGs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/output
 
-          git fetch origin output:output || true
+          cp /tmp/pacman-contribution-graph.svg /tmp/output/
+          cp /tmp/pacman-contribution-graph-dark.svg /tmp/output/
 
-          if git show-ref --verify --quiet refs/remotes/origin/output; then
+          git checkout --detach
+
+          git branch -D output 2>/dev/null || true
+
+          git fetch origin output:output 2>/dev/null || true
+
+          if git show-ref --verify --quiet refs/heads/output; then
             git checkout output
           else
             git checkout --orphan output
             git rm -rf . || true
           fi
 
-          cp /tmp/pacman-contribution-graph.svg .
-          cp /tmp/pacman-contribution-graph-dark.svg .
+          cp /tmp/output/pacman-contribution-graph.svg .
+          cp /tmp/output/pacman-contribution-graph-dark.svg .
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add pacman-contribution-graph.svg
           git add pacman-contribution-graph-dark.svg
 
-          git diff --cached --quiet || git commit -m "Update contribution arcade"
-
-          git push origin output
+          if git diff --cached --quiet; then
+            echo "No SVG changes."
+          else
+            git commit -m "Update contribution arcade"
+            git push origin output
+          fi
