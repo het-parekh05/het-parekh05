@@ -29,11 +29,9 @@ DARK_COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 SECONDS_PER_CELL = 0.15
 HOLD_SECONDS = 1.5
 
-
 def escape(text):
     return (str(text).replace("&", "&amp;").replace("<", "&lt;")
             .replace(">", "&gt;").replace('"', "&quot;"))
-
 
 def level_from_count(count):
     if count <= 0:
@@ -45,7 +43,6 @@ def level_from_count(count):
     if count <= 9:
         return 3
     return 4
-
 
 def month_labels():
     labels = []
@@ -66,14 +63,11 @@ def month_labels():
             previous_month = month
     return labels
 
-
 def get_cells():
     cells = []
     for x, week in enumerate(weeks):
         for day in week["contributionDays"]:
             y, m, d = map(int, day["date"].split("-"))
-            # GitHub renders the contribution calendar Sunday-first.
-            # Python weekday() is Monday-first, so convert it.
             weekday = (Date(y, m, d).weekday() + 1) % 7
             cells.append({
                 "x": x,
@@ -84,11 +78,8 @@ def get_cells():
             })
     return cells
 
-
 cells = get_cells()
 
-# Snake through every calendar cell. This guarantees every green
-# contribution cell is visited by Pac-Man.
 route = []
 for x in range(MAX_WEEKS):
     rows = range(7) if x % 2 == 0 else range(6, -1, -1)
@@ -101,10 +92,8 @@ arrival_time = {position: index * SECONDS_PER_CELL
 TOTAL_TRAVEL = len(route) * SECONDS_PER_CELL
 TOTAL_DURATION = TOTAL_TRAVEL + HOLD_SECONDS
 
-
 def point_for(x, y):
     return LEFT + x * STEP + CELL / 2, TOP + y * STEP + CELL / 2
-
 
 def route_path():
     points = [point_for(x, y) for x, y in route]
@@ -112,9 +101,7 @@ def route_path():
     commands.extend(f"L {px:.1f} {py:.1f}" for px, py in points[1:])
     return " ".join(commands)
 
-
 PACMAN_PATH = route_path()
-
 
 def ghost(x, y, color):
     px = LEFT + x * STEP
@@ -133,7 +120,6 @@ def ghost(x, y, color):
       <circle cx="{px + 10}" cy="{py + 6}" r="1.5" fill="white"/>
     </g>
     """
-
 
 def pacman_svg():
     return f"""
@@ -156,7 +142,6 @@ def pacman_svg():
       </path>
     </g>
     """
-
 
 def dot_svg(cell, dark):
     px = LEFT + cell["x"] * STEP
@@ -186,7 +171,6 @@ def dot_svg(cell, dark):
     </rect>
     """
 
-
 def create_svg(dark=False):
     text_color = "#c9d1d9"
     wall_color = "#f0f6fc"
@@ -213,11 +197,9 @@ def create_svg(dark=False):
           font-size="8" fill="#8b949e">{label}</text>
         """)
 
-    # Real GitHub contribution cells.
     for cell in cells:
         parts.append(dot_svg(cell, dark))
 
-    # Decorative maze walls. They do not control the Pac-Man route.
     maze_y = TOP + 1.5 * STEP
     for x in range(1, MAX_WEEKS - 1, 6):
         x1 = LEFT + x * STEP
@@ -258,7 +240,6 @@ def create_svg(dark=False):
     """)
 
     return "\n".join(parts)
-
 
 Path("/tmp").mkdir(exist_ok=True)
 
