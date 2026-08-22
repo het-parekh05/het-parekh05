@@ -136,13 +136,12 @@ def ghost(x, y, color):
 
 
 def pacman_svg():
-    start_px, start_py = point_for(*route[0])
     return f"""
     <g>
       <path d="
-        M {start_px:.1f} {start_py:.1f}
-        L {start_px + 6:.1f} {start_py - 4:.1f}
-        A 6 6 0 1 0 {start_px + 6:.1f} {start_py + 4:.1f} Z"
+        M 0 0
+        L 6 -4
+        A 6 6 0 1 0 6 4 Z"
         fill="#FFD93D">
         <animateMotion dur="{TOTAL_DURATION:.2f}s"
           repeatCount="indefinite"
