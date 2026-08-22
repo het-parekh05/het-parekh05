@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Awesome Profile Views Counter -->
@@ -5,8 +6,8 @@
 
 <br><br>
 
-<!-- Custom Animated Pac-Man SVG -->
-<img src="pacman_intro.svg" width="100%" alt="Het Parekh Animated Intro" />
+<!-- Awesome Custom Header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=BFDBFE&height=130&section=header&text=👋%20Hey,%20I'm%20Het%20Parekh!&fontSize=50&fontColor=000000&animation=fadeIn" alt="Hero Banner" />
 
 <h3>Computer Engineering Student • Developer • Builder</h3>
 
@@ -169,3 +170,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
+```
