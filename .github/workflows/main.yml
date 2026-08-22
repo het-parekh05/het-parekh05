@@ -22,17 +22,27 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -L \
+          NOW=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          ONE_YEAR_AGO=$(date -u -d "1 year ago" +"%Y-%m-%dT%H:%M:%SZ")
+          
+          # Safely construct the JSON payload with dynamic dates
+          jq -n \
+            --arg login "het-parekh05" \
+            --arg from "$ONE_YEAR_AGO" \
+            --arg to "$NOW" \
+            '{
+              query: "query($login:String!, $from:DateTime!, $to:DateTime!) { user(login:$login) { contributionsCollection(from:$from, to:$to) { contributionCalendar { totalContributions weeks { contributionDays { contributionCount date color } } } } } }",
+              variables: {
+                login: $login,
+                from: $from,
+                to: $to
+              }
+            }' > query.json
+            
+          curl -s -L \
             -H "Authorization: bearer $GH_TOKEN" \
             -H "Content-Type: application/json" \
-            -d '{
-              "query": "query($login:String!, $from:DateTime!, $to:DateTime!) { user(login:$login) { contributionsCollection(from:$from, to:$to) { contributionCalendar { totalContributions weeks { contributionDays { contributionCount date color } } } } } }",
-              "variables": {
-                "login": "het-parekh05",
-                "from": "2025-08-23T00:00:00Z",
-                "to": "2026-08-22T23:59:59Z"
-              }
-            }' \
+            -d @query.json \
             https://api.github.com/graphql \
             -o contribution-data.json
 
