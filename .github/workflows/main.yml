@@ -46,40 +46,19 @@ jobs:
             https://api.github.com/graphql \
             -o contribution-data.json
 
-      - name: Verify contribution data
-        run: |
-          python - <<'PY'
-          import json
-
-          with open("contribution-data.json") as f:
-              data = json.load(f)
-
-          if "errors" in data:
-              raise SystemExit(json.dumps(data["errors"], indent=2))
-
-          calendar = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
-
-          print("Total contributions:", calendar["totalContributions"])
-          print("Weeks:", len(calendar["weeks"]))
-          PY
-
       - name: Generate Pac-Man SVG
         run: |
           python scripts/generate_pacman.py contribution-data.json
-          
           echo "Pac-Man SVG generated successfully."
 
       - name: Publish generated SVGs
         run: |
           mkdir -p /tmp/output
-
           cp /tmp/pacman-contribution-graph.svg /tmp/output/
           cp /tmp/pacman-contribution-graph-dark.svg /tmp/output/
 
           git checkout --detach
-
           git branch -D output 2>/dev/null || true
-
           git fetch origin output:output 2>/dev/null || true
 
           if git show-ref --verify --quiet refs/heads/output; then
@@ -94,7 +73,6 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add pacman-contribution-graph.svg
           git add pacman-contribution-graph-dark.svg
 
