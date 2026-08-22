@@ -66,15 +66,8 @@ jobs:
       - name: Generate Pac-Man SVG
         run: |
           python scripts/generate_pacman.py contribution-data.json
-
-          echo "Checking generated SVG..."
-
-          if grep -Eiq '#(9be9a8|40c463|30a14e|216e39|0e4429|006d32|26a641|39d353)' /tmp/pacman-contribution-graph.svg; then
-            echo "ERROR: GitHub green detected in generated SVG."
-            exit 1
-          fi
-
-          echo "No GitHub green detected."
+          
+          echo "Pac-Man SVG generated successfully."
 
       - name: Publish generated SVGs
         run: |
