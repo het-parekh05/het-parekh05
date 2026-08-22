@@ -128,9 +128,9 @@
 <h2 align="center">🎮 Contribution Arcade</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph.svg?v=2">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/het-parekh05/het-parekh05/output/pacman-contribution-graph.svg?v=2">
 </picture>
 <br>
 <i><b>Every contribution leaves a mark.</b></i>
