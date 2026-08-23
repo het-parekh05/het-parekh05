@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- Awesome Profile Views Counter -->
-[![Views](https://komarev.com/ghpvc/?username=het-parekh05&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=white)](https://github.com/het-parekh05)
-
 <br><br>
 
 <!-- Custom Animated Pac-Man SVG -->
