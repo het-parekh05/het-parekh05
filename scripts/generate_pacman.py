@@ -1,5 +1,6 @@
 import json
 import sys
+import random
 from pathlib import Path
 from datetime import date as Date
 from collections import deque
@@ -30,51 +31,90 @@ DARK_COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 SECONDS_PER_CELL = 0.12
 HOLD_SECONDS = 1.5
 
-def is_valid_move(x1, y1, x2, y2, max_weeks):
-    if not (0 <= x2 < max_weeks and 0 <= y2 < 7):
-        return False
-    if x1 == x2:
-        y_min = min(y1, y2)
-        if y_min == 1:
-            for start_x in range(1, max_weeks - 1, 6):
-                if start_x <= x1 < start_x + 4:
-                    return False
-    if y1 == y2:
-        x_max = max(x1, x2)
-        for wall_x in range(4, max_weeks - 2, 8):
-            if x_max == wall_x:
-                if 2 <= y1 <= 4:
-                    return False
-    return True
+# --- MAZE GENERATION (NEON WALLS) ---
+def generate_walls():
+    walls_v = set()
+    walls_h = set()
+    
+    def mirror_v(x, y):
+        walls_v.add((x, y))
+        walls_v.add((51 - x, y))
+        
+    def mirror_h(x, y):
+        walls_h.add((x, y))
+        walls_h.add((52 - x, y))
 
-def bfs_closest_coin(start, unvisited_coins, max_weeks):
+    # Arcade Boxes
+    for x in range(2, 6): 
+        mirror_h(x, 1)
+        mirror_h(x, 4)
+    for y in range(2, 4): mirror_v(5, y)
+
+    # T-shapes
+    for x in range(8, 12): mirror_h(x, 2)
+    for y in range(3, 5): mirror_v(9, y)
+    
+    # C-shapes
+    for y in range(1, 5): mirror_v(14, y)
+    mirror_h(15, 0)
+    mirror_h(15, 4)
+
+    # Inner barriers
+    for x in range(18, 22): mirror_h(x, 3)
+    mirror_v(19, 1)
+    mirror_v(19, 5)
+
+    # Central Ghost House area
+    for x in range(24, 29): walls_h.add((x, 1))
+    for x in range(24, 29): walls_h.add((x, 5))
+    for y in range(2, 5): walls_v.add((23, y))
+    for y in range(2, 5): walls_v.add((28, y))
+    
+    return walls_v, walls_h
+
+walls_v, walls_h = generate_walls()
+
+def get_neighbors(x, y):
+    n = []
+    if x > 0 and (x-1, y) not in walls_v: n.append((x-1, y))
+    if x < 52 and (x, y) not in walls_v: n.append((x+1, y))
+    if y > 0 and (x, y-1) not in walls_h: n.append((x, y-1))
+    if y < 6 and (x, y) not in walls_h: n.append((x, y+1))
+    return n
+
+def bfs_closest_coins(start, unvisited_coins):
     queue = deque([[start]])
     visited = set([start])
+    found_paths = []
+    
     while queue:
         path = queue.popleft()
         x, y = path[-1]
+        
         if (x, y) in unvisited_coins:
-            return path
-        for dx, dy in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
-            nx, ny = x + dx, y + dy
-            if is_valid_move(x, y, nx, ny, max_weeks) and (nx, ny) not in visited:
-                visited.add((nx, ny))
-                queue.append(path + [(nx, ny)])
-    return None
+            found_paths.append(path)
+            # Find up to 3 closest coins to add randomness!
+            if len(found_paths) >= 3:
+                return found_paths
+                
+        for n in get_neighbors(x, y):
+            if n not in visited:
+                visited.add(n)
+                queue.append(path + [n])
+                
+    return found_paths
 
-def bfs_path(start, end, max_weeks):
+def bfs_path(start, end):
     queue = deque([[start]])
     visited = set([start])
     while queue:
         path = queue.popleft()
-        x, y = path[-1]
-        if (x, y) == end:
+        if path[-1] == end:
             return path
-        for dx, dy in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
-            nx, ny = x + dx, y + dy
-            if is_valid_move(x, y, nx, ny, max_weeks) and (nx, ny) not in visited:
-                visited.add((nx, ny))
-                queue.append(path + [(nx, ny)])
+        for n in get_neighbors(*path[-1]):
+            if n not in visited:
+                visited.add(n)
+                queue.append(path + [n])
     return None
 
 def generate_pacman_route(max_weeks, coins):
@@ -89,19 +129,46 @@ def generate_pacman_route(max_weeks, coins):
         unvisited_coins.remove(current)
         
     while unvisited_coins:
-        path = bfs_closest_coin(current, unvisited_coins, max_weeks)
-        if not path:
+        paths = bfs_closest_coins(current, unvisited_coins)
+        if not paths:
             break
         
-        best_coin = path[-1]
-        route.extend(path[1:])
+        # Pick randomly from the top closest paths for erratic, lifelike movement!
+        chosen_path = random.choice(paths)
+        
+        best_coin = chosen_path[-1]
+        route.extend(chosen_path[1:])
         unvisited_coins.remove(best_coin)
         current = best_coin
         
-    back_path = bfs_path(current, (0,0), max_weeks)
+    # Return home
+    back_path = bfs_path(current, (0,0))
     if back_path:
         route.extend(back_path[1:])
         
+    return route
+
+def generate_ghost_route(start, steps=60):
+    route = [start]
+    curr = start
+    for _ in range(steps):
+        neighbors = get_neighbors(*curr)
+        # Try not to immediately backtrack unless dead end
+        prev = route[-2] if len(route) > 1 else None
+        unvisited = [n for n in neighbors if n != prev]
+        
+        if unvisited:
+            next_step = random.choice(unvisited)
+        else:
+            next_step = random.choice(neighbors)
+            
+        route.append(next_step)
+        curr = next_step
+        
+    # Go back to start so it loops perfectly!
+    back_path = bfs_path(curr, start)
+    if back_path:
+        route.extend(back_path[1:])
     return route
 
 def escape(text):
@@ -159,48 +226,55 @@ TOTAL_DURATION = max(1.0, TOTAL_TRAVEL + HOLD_SECONDS)
 def point_for(x, y):
     return LEFT + x * STEP + CELL / 2, TOP + y * STEP + CELL / 2
 
-def route_path():
-    if len(route) <= 1: return "M 0 0"
-    points = [point_for(x, y) for x, y in route]
+def route_path(r):
+    if len(r) <= 1: return "M 0 0"
+    points = [point_for(x, y) for x, y in r]
     commands = [f"M {points[0][0]:.1f} {points[0][1]:.1f}"]
     commands.extend(f"L {px:.1f} {py:.1f}" for px, py in points[1:])
     return " ".join(commands)
 
-PACMAN_PATH = route_path()
+PACMAN_PATH = route_path(route)
 
-def ghost(x, y, color):
-    px = LEFT + x * STEP
-    py = TOP + y * STEP
+def ghost_svg(start_pos, color, steps, dur_multiplier=1.2):
+    g_route = generate_ghost_route(start_pos, steps)
+    g_path = route_path(g_route)
+    dur = len(g_route) * SECONDS_PER_CELL * dur_multiplier
+    
     return f"""
     <g>
       <path d="
-        M {px + 2} {py + 8}
-        C {px + 2} {py + 3}, {px + 5} {py + 1}, {px + 8} {py + 1}
-        C {px + 11} {py + 1}, {px + 12} {py + 3}, {px + 12} {py + 8}
-        L {px + 12} {py + 12} L {px + 10} {py + 10}
-        L {px + 8} {py + 12} L {px + 6} {py + 10}
-        L {px + 4} {py + 12} L {px + 2} {py + 10} Z"
-        fill="{color}"/>
-      <circle cx="{px + 6}" cy="{py + 6}" r="1.5" fill="white"/>
-      <circle cx="{px + 10}" cy="{py + 6}" r="1.5" fill="white"/>
+        M -6 2
+        C -6 -3, -3 -5, 0 -5
+        C 3 -5, 6 -3, 6 2
+        L 6 6 L 4 4
+        L 2 6 L 0 4
+        L -2 6 L -4 4
+        L -6 6 Z"
+        fill="{color}">
+        <animateMotion dur="{dur:.2f}s"
+          repeatCount="indefinite"
+          path="{g_path}" />
+      </path>
+      <circle cx="-2" cy="0" r="1.5" fill="white">
+        <animateMotion dur="{dur:.2f}s" repeatCount="indefinite" path="{g_path}" />
+      </circle>
+      <circle cx="2" cy="0" r="1.5" fill="white">
+        <animateMotion dur="{dur:.2f}s" repeatCount="indefinite" path="{g_path}" />
+      </circle>
     </g>
     """
 
 def pacman_svg():
     return f"""
     <g>
-      <path d="
-        M 0 0
-        L 6 -4
-        A 6 6 0 1 0 6 4 Z"
-        fill="#FFD93D">
+      <path d="M 0 0 L 5 -5 A 7 7 0 1 0 5 5 Z" fill="#FFD93D">
         <animateMotion dur="{TOTAL_DURATION:.2f}s"
           repeatCount="indefinite"
           path="{PACMAN_PATH}"
           rotate="auto"/>
         <animateTransform attributeName="transform"
           type="scale"
-          values="1 1; 1 0.90; 1 1"
+          values="1 1; 1 0.85; 1 1"
           dur="0.16s"
           repeatCount="indefinite"
           additive="sum"/>
@@ -214,7 +288,6 @@ def dot_svg(cell, dark):
     cx = px + CELL / 2
     cy = py + CELL / 2
 
-    # Draw empty background grid
     bg_fill = DARK_COLORS[0] if dark else LIGHT_COLORS[0]
     result = f'<rect x="{px}" y="{py}" width="{CELL}" height="{CELL}" rx="3" fill="{bg_fill}"/>\n'
 
@@ -228,12 +301,9 @@ def dot_svg(cell, dark):
 
     coin_color = "#FDE047"
     glow = ""
-    if cell["level"] == 1:
-        radius = 2.5
-    elif cell["level"] == 2:
-        radius = 3.5
-    elif cell["level"] == 3:
-        radius = 4.5
+    if cell["level"] == 1: radius = 2.5
+    elif cell["level"] == 2: radius = 3.5
+    elif cell["level"] == 3: radius = 4.5
     else:
         radius = 5.5
         glow = f'<circle cx="{cx}" cy="{cy}" r="8" fill="#FDE047" opacity="0.4" />'
@@ -250,8 +320,7 @@ def dot_svg(cell, dark):
 
 def create_svg(dark=False):
     text_color = "#c9d1d9"
-    wall_color = "#f0f6fc"
-
+    
     parts = [f"""<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
       <rect width="100%" height="100%" fill="#0d1117" rx="12"/>
       <text x="{WIDTH / 2}" y="27" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="{text_color}">Contribution Arcade</text>
@@ -268,23 +337,29 @@ def create_svg(dark=False):
     for cell in cells:
         parts.append(dot_svg(cell, dark))
 
-    maze_y = TOP + 1.5 * STEP
-    for x in range(1, MAX_WEEKS - 1, 6):
-        x1 = LEFT + x * STEP
-        x2 = LEFT + min(x + 4, MAX_WEEKS - 1) * STEP
-        parts.append(f'<path d="M {x1} {maze_y} H {x2}" fill="none" stroke="{wall_color}" stroke-width="1.4" stroke-linecap="round" opacity="0.65"/>')
+    # Beautiful Neon Arcade Walls
+    for (x, y) in walls_h:
+        y_line = TOP + y * STEP - GAP/2
+        x_start = LEFT + x * STEP - GAP/2
+        x_end = LEFT + x * STEP + CELL + GAP/2
+        parts.append(f'<line x1="{x_start}" y1="{y_line}" x2="{x_end}" y2="{y_line}" stroke="#0284c7" stroke-width="4" stroke-linecap="round" opacity="0.5"/>')
+        parts.append(f'<line x1="{x_start}" y1="{y_line}" x2="{x_end}" y2="{y_line}" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" />')
 
-    for x in range(4, MAX_WEEKS - 2, 8):
-        px = LEFT + x * STEP
-        parts.append(f'<path d="M {px} {TOP + 2 * STEP} V {TOP + 5 * STEP}" fill="none" stroke="{wall_color}" stroke-width="1.4" stroke-linecap="round" opacity="0.65"/>')
+    for (x, y) in walls_v:
+        x_line = LEFT + (x + 1) * STEP - GAP/2
+        y_start = TOP + y * STEP - GAP/2
+        y_end = TOP + y * STEP + CELL + GAP/2
+        parts.append(f'<line x1="{x_line}" y1="{y_start}" x2="{x_line}" y2="{y_end}" stroke="#0284c7" stroke-width="4" stroke-linecap="round" opacity="0.5"/>')
+        parts.append(f'<line x1="{x_line}" y1="{y_start}" x2="{x_line}" y2="{y_end}" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" />')
 
     parts.append(pacman_svg())
 
-    ghost_positions = [(max(4, MAX_WEEKS // 3), 2), (max(5, MAX_WEEKS // 2), 3), (max(6, (MAX_WEEKS * 2) // 3), 3)]
+    ghost_starts = [(25, 3), (26, 3), (27, 3)]
     ghost_colors = ["#ff3b30", "#00c7ff", "#ff6bcb"]
+    steps = [60, 75, 90]
 
-    for index, (x, y) in enumerate(ghost_positions):
-        parts.append(ghost(x, y, ghost_colors[index % len(ghost_colors)]))
+    for index, start_pos in enumerate(ghost_starts):
+        parts.append(ghost_svg(start_pos, ghost_colors[index], steps[index]))
 
     parts.append(f'<text x="{WIDTH / 2}" y="{HEIGHT - 16}" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-style="italic" font-weight="700" fill="{text_color}">Every contribution leaves a mark.</text></svg>')
     return "\n".join(parts)
@@ -293,4 +368,4 @@ Path("/tmp").mkdir(exist_ok=True)
 with open("/tmp/pacman-contribution-graph.svg", "w", encoding="utf-8") as f: f.write(create_svg(False))
 with open("/tmp/pacman-contribution-graph-dark.svg", "w", encoding="utf-8") as f: f.write(create_svg(True))
 
-print("Generated synchronized Pac-Man contribution graph.")
+print("Generated full arcade Pac-Man graph!")
