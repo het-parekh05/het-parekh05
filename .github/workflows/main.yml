@@ -45,11 +45,36 @@ jobs:
             -d @query.json \
             https://api.github.com/graphql \
             -o contribution-data.json
+            
+          # Validate fetching success
+          if ! grep -q "contributionCalendar" contribution-data.json; then
+            echo "Error: Failed to fetch valid contribution data."
+            cat contribution-data.json
+            exit 1
+          fi
 
       - name: Generate Pac-Man SVG
         run: |
           python scripts/generate_pacman.py contribution-data.json
-          echo "Pac-Man SVG generated successfully."
+          
+          echo "Validating SVG generation..."
+          if [ ! -f /tmp/pacman-contribution-graph.svg ] || [ ! -f /tmp/pacman-contribution-graph-dark.svg ]; then
+            echo "Error: Expected SVG files were not generated."
+            exit 1
+          fi
+          
+          if [ ! -s /tmp/pacman-contribution-graph.svg ]; then
+            echo "Error: Generated SVG file is empty."
+            exit 1
+          fi
+          
+          # Validate that no green github contribution colors are accidentally present
+          if grep -E -i '#216e39|#30a14e|#40c463|#9be9a8' /tmp/pacman-contribution-graph.svg; then
+            echo "Error: Original GitHub green colors found in SVG. The graph must use custom arcade colors."
+            exit 1
+          fi
+
+          echo "Pac-Man SVG generated and validated successfully."
 
       - name: Publish generated SVGs
         run: |
