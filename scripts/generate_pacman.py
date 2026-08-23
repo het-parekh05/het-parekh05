@@ -28,51 +28,65 @@ HEIGHT = TOP + 7 * STEP + 55
 LIGHT_COLORS = ["#161b22", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
 DARK_COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 
-SECONDS_PER_CELL = 0.12
+SECONDS_PER_CELL = 0.20 # Slowed down Pac-Man to make it look relaxed
 HOLD_SECONDS = 1.5
 
-# --- MAZE GENERATION (NEON WALLS) ---
-def generate_walls():
+# --- ORGANIC RANDOM MAZE GENERATOR ---
+def generate_organic_walls(max_weeks=53, rows=7):
     walls_v = set()
     walls_h = set()
     
-    def mirror_v(x, y):
-        walls_v.add((x, y))
-        walls_v.add((51 - x, y))
+    all_walls = []
+    for y in range(rows):
+        for x in range(max_weeks - 1):
+            all_walls.append(('v', x, y))
+    for y in range(rows - 1):
+        for x in range(max_weeks):
+            all_walls.append(('h', x, y))
+            
+    # Seed by today's date so the maze changes uniquely every day!
+    random.seed(Date.today().toordinal())
+    random.shuffle(all_walls)
+    
+    parent = {}
+    def find(i):
+        if parent[i] == i: return i
+        parent[i] = find(parent[i])
+        return parent[i]
+    def union(i, j):
+        root_i = find(i)
+        root_j = find(j)
+        if root_i != root_j:
+            parent[root_i] = root_j
+            return True
+        return False
         
-    def mirror_h(x, y):
-        walls_h.add((x, y))
-        walls_h.add((52 - x, y))
-
-    # Arcade Boxes
-    for x in range(2, 6): 
-        mirror_h(x, 1)
-        mirror_h(x, 4)
-    for y in range(2, 4): mirror_v(5, y)
-
-    # T-shapes
-    for x in range(8, 12): mirror_h(x, 2)
-    for y in range(3, 5): mirror_v(9, y)
-    
-    # C-shapes
-    for y in range(1, 5): mirror_v(14, y)
-    mirror_h(15, 0)
-    mirror_h(15, 4)
-
-    # Inner barriers
-    for x in range(18, 22): mirror_h(x, 3)
-    mirror_v(19, 1)
-    mirror_v(19, 5)
-
-    # Central Ghost House area
-    for x in range(24, 29): walls_h.add((x, 1))
-    for x in range(24, 29): walls_h.add((x, 5))
-    for y in range(2, 5): walls_v.add((23, y))
-    for y in range(2, 5): walls_v.add((28, y))
-    
+    for y in range(rows):
+        for x in range(max_weeks):
+            parent[(x, y)] = (x, y)
+            
+    final_walls = []
+    for w in all_walls:
+        w_type, x, y = w
+        if w_type == 'v':
+            c1, c2 = (x, y), (x+1, y)
+        else:
+            c1, c2 = (x, y), (x, y+1)
+            
+        if union(c1, c2):
+            pass # Keep open to guarantee all cells are reachable
+        else:
+            # 22% chance to keep a wall to make it sparse and open
+            if random.random() < 0.22:
+                final_walls.append(w)
+                
+    for w in final_walls:
+        if w[0] == 'v': walls_v.add((w[1], w[2]))
+        else: walls_h.add((w[1], w[2]))
+        
     return walls_v, walls_h
 
-walls_v, walls_h = generate_walls()
+walls_v, walls_h = generate_organic_walls(MAX_WEEKS, 7)
 
 def get_neighbors(x, y):
     n = []
@@ -93,8 +107,7 @@ def bfs_closest_coins(start, unvisited_coins):
         
         if (x, y) in unvisited_coins:
             found_paths.append(path)
-            # Find up to 3 closest coins to add randomness!
-            if len(found_paths) >= 3:
+            if len(found_paths) >= 4: # Increased randomness choice
                 return found_paths
                 
         for n in get_neighbors(x, y):
@@ -105,6 +118,7 @@ def bfs_closest_coins(start, unvisited_coins):
     return found_paths
 
 def bfs_path(start, end):
+    if start == end: return [start]
     queue = deque([[start]])
     visited = set([start])
     while queue:
@@ -117,7 +131,7 @@ def bfs_path(start, end):
                 queue.append(path + [n])
     return None
 
-def generate_pacman_route(max_weeks, coins):
+def generate_pacman_route(coins):
     if not coins:
         return [(0,0)]
     
@@ -133,7 +147,7 @@ def generate_pacman_route(max_weeks, coins):
         if not paths:
             break
         
-        # Pick randomly from the top closest paths for erratic, lifelike movement!
+        # Pick randomly from closest coins for erratic, hunting movement
         chosen_path = random.choice(paths)
         
         best_coin = chosen_path[-1]
@@ -141,7 +155,6 @@ def generate_pacman_route(max_weeks, coins):
         unvisited_coins.remove(best_coin)
         current = best_coin
         
-    # Return home
     back_path = bfs_path(current, (0,0))
     if back_path:
         route.extend(back_path[1:])
@@ -153,7 +166,6 @@ def generate_ghost_route(start, steps=60):
     curr = start
     for _ in range(steps):
         neighbors = get_neighbors(*curr)
-        # Try not to immediately backtrack unless dead end
         prev = route[-2] if len(route) > 1 else None
         unvisited = [n for n in neighbors if n != prev]
         
@@ -165,7 +177,6 @@ def generate_ghost_route(start, steps=60):
         route.append(next_step)
         curr = next_step
         
-    # Go back to start so it loops perfectly!
     back_path = bfs_path(curr, start)
     if back_path:
         route.extend(back_path[1:])
@@ -213,7 +224,7 @@ for x, week in enumerate(weeks):
         })
 
 coin_cells = [(c["x"], c["y"]) for c in cells if c["count"] > 0]
-route = generate_pacman_route(MAX_WEEKS, coin_cells)
+route = generate_pacman_route(coin_cells)
 
 arrival_time = {}
 for index, position in enumerate(route):
@@ -235,7 +246,7 @@ def route_path(r):
 
 PACMAN_PATH = route_path(route)
 
-def ghost_svg(start_pos, color, steps, dur_multiplier=1.2):
+def ghost_svg(start_pos, color, steps, dur_multiplier=1.0):
     g_route = generate_ghost_route(start_pos, steps)
     g_path = route_path(g_route)
     dur = len(g_route) * SECONDS_PER_CELL * dur_multiplier
@@ -337,24 +348,24 @@ def create_svg(dark=False):
     for cell in cells:
         parts.append(dot_svg(cell, dark))
 
-    # Beautiful Neon Arcade Walls
     for (x, y) in walls_h:
         y_line = TOP + y * STEP - GAP/2
         x_start = LEFT + x * STEP - GAP/2
         x_end = LEFT + x * STEP + CELL + GAP/2
-        parts.append(f'<line x1="{x_start}" y1="{y_line}" x2="{x_end}" y2="{y_line}" stroke="#0284c7" stroke-width="4" stroke-linecap="round" opacity="0.5"/>')
-        parts.append(f'<line x1="{x_start}" y1="{y_line}" x2="{x_end}" y2="{y_line}" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" />')
+        parts.append(f'<line x1="{x_start}" y1="{y_line}" x2="{x_end}" y2="{y_line}" stroke="#0284c7" stroke-width="3" stroke-linecap="round" opacity="0.5"/>')
+        parts.append(f'<line x1="{x_start}" y1="{y_line}" x2="{x_end}" y2="{y_line}" stroke="#38bdf8" stroke-width="1.2" stroke-linecap="round" />')
 
     for (x, y) in walls_v:
         x_line = LEFT + (x + 1) * STEP - GAP/2
         y_start = TOP + y * STEP - GAP/2
         y_end = TOP + y * STEP + CELL + GAP/2
-        parts.append(f'<line x1="{x_line}" y1="{y_start}" x2="{x_line}" y2="{y_end}" stroke="#0284c7" stroke-width="4" stroke-linecap="round" opacity="0.5"/>')
-        parts.append(f'<line x1="{x_line}" y1="{y_start}" x2="{x_line}" y2="{y_end}" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" />')
+        parts.append(f'<line x1="{x_line}" y1="{y_start}" x2="{x_line}" y2="{y_end}" stroke="#0284c7" stroke-width="3" stroke-linecap="round" opacity="0.5"/>')
+        parts.append(f'<line x1="{x_line}" y1="{y_start}" x2="{x_line}" y2="{y_end}" stroke="#38bdf8" stroke-width="1.2" stroke-linecap="round" />')
 
     parts.append(pacman_svg())
 
-    ghost_starts = [(25, 3), (26, 3), (27, 3)]
+    # Spread ghosts out so they roam everywhere
+    ghost_starts = [(10, 3), (25, 3), (40, 3)] 
     ghost_colors = ["#ff3b30", "#00c7ff", "#ff6bcb"]
     steps = [60, 75, 90]
 
@@ -368,4 +379,4 @@ Path("/tmp").mkdir(exist_ok=True)
 with open("/tmp/pacman-contribution-graph.svg", "w", encoding="utf-8") as f: f.write(create_svg(False))
 with open("/tmp/pacman-contribution-graph-dark.svg", "w", encoding="utf-8") as f: f.write(create_svg(True))
 
-print("Generated full arcade Pac-Man graph!")
+print("Generated random organic Pac-Man graph!")
