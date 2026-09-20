@@ -2,250 +2,250 @@
   <rect width="100%" height="100%" fill="#0d1117" rx="12" />
     <g>
       <title>2025-10-01: 3 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.060606;0.070707;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="54.5" cy="64.5" r="3.5" fill="#FDE047" />
-      <circle cx="54.5" cy="64.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.059606;0.060606;0.070707" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.059606;0.060606;0.070707" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.050350;0.057343;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="38.5" cy="64.5" r="3.5" fill="#FDE047" />
+      <circle cx="38.5" cy="64.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.049350;0.050350;0.057343" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.049350;0.050350;0.057343" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-03: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.076768;0.086869;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="54.5" cy="96.5" r="2.5" fill="#FDE047" />
-      <circle cx="54.5" cy="96.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.075768;0.076768;0.086869" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.075768;0.076768;0.086869" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.055944;0.062937;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="38.5" cy="96.5" r="2.5" fill="#FDE047" />
+      <circle cx="38.5" cy="96.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.054944;0.055944;0.062937" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.054944;0.055944;0.062937" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-04: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.096970;0.107071;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="54.5" cy="112.5" r="2.5" fill="#FDE047" />
-      <circle cx="54.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.095970;0.096970;0.107071" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.095970;0.096970;0.107071" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.058741;0.065734;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="38.5" cy="112.5" r="2.5" fill="#FDE047" />
+      <circle cx="38.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.057741;0.058741;0.065734" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.057741;0.058741;0.065734" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-05: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.012121;0.022222;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="16.5" r="3.5" fill="#FDE047" />
-      <circle cx="70.5" cy="16.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.011121;0.012121;0.022222" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.011121;0.012121;0.022222" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.005594;0.012587;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="16.5" r="3.5" fill="#FDE047" />
+      <circle cx="54.5" cy="16.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.004594;0.005594;0.012587" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.004594;0.005594;0.012587" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-06: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.024242;0.034343;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="32.5" r="3.5" fill="#FDE047" />
-      <circle cx="70.5" cy="32.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.023242;0.024242;0.034343" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.023242;0.024242;0.034343" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.013986;0.020979;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="32.5" r="3.5" fill="#FDE047" />
+      <circle cx="54.5" cy="32.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.012986;0.013986;0.020979" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.012986;0.013986;0.020979" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-07: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.028283;0.038384;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="48.5" r="3.5" fill="#FDE047" />
-      <circle cx="70.5" cy="48.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.027283;0.028283;0.038384" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.027283;0.028283;0.038384" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.123077;0.130070;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="48.5" r="3.5" fill="#FDE047" />
+      <circle cx="54.5" cy="48.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.122077;0.123077;0.130070" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.122077;0.123077;0.130070" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-08: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.064646;0.074747;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="64.5" r="3.5" fill="#FDE047" />
-      <circle cx="70.5" cy="64.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.063646;0.064646;0.074747" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.063646;0.064646;0.074747" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.047552;0.054545;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="64.5" r="3.5" fill="#FDE047" />
+      <circle cx="54.5" cy="64.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.046552;0.047552;0.054545" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.046552;0.047552;0.054545" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-09: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.084848;0.094949;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="80.5" r="3.5" fill="#FDE047" />
-      <circle cx="70.5" cy="80.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.083848;0.084848;0.094949" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.083848;0.084848;0.094949" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.100699;0.107692;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="80.5" r="3.5" fill="#FDE047" />
+      <circle cx="54.5" cy="80.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.099699;0.100699;0.107692" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.099699;0.100699;0.107692" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-10: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.080808;0.090909;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="96.5" r="3.5" fill="#FDE047" />
-      <circle cx="70.5" cy="96.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.079808;0.080808;0.090909" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.079808;0.080808;0.090909" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.674126;0.681119;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="96.5" r="3.5" fill="#FDE047" />
+      <circle cx="54.5" cy="96.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.673126;0.674126;0.681119" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.673126;0.674126;0.681119" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-11: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.101010;0.111111;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="70.5" cy="112.5" r="2.5" fill="#FDE047" />
-      <circle cx="70.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.100010;0.101010;0.111111" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.100010;0.101010;0.111111" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.061538;0.068531;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="54.5" cy="112.5" r="2.5" fill="#FDE047" />
+      <circle cx="54.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.060538;0.061538;0.068531" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.060538;0.061538;0.068531" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-10-12: 3 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.016162;0.026263;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="86.5" cy="16.5" r="3.5" fill="#FDE047" />
-      <circle cx="86.5" cy="16.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.015162;0.016162;0.026263" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.015162;0.016162;0.026263" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.008392;0.015385;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="70.5" cy="16.5" r="3.5" fill="#FDE047" />
+      <circle cx="70.5" cy="16.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.007392;0.008392;0.015385" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.007392;0.008392;0.015385" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2025-11-03: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.848485;0.858586;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="134.5" cy="32.5" r="2.5" fill="#FDE047" />
-      <circle cx="134.5" cy="32.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.847485;0.848485;0.858586" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.847485;0.848485;0.858586" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.030769;0.037762;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="118.5" cy="32.5" r="2.5" fill="#FDE047" />
+      <circle cx="118.5" cy="32.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.029769;0.030769;0.037762" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.029769;0.030769;0.037762" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-04-18: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.210101;0.220202;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="502.5" cy="112.5" r="2.5" fill="#FDE047" />
-      <circle cx="502.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.209101;0.210101;0.220202" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.209101;0.210101;0.220202" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.220979;0.227972;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="486.5" cy="112.5" r="2.5" fill="#FDE047" />
+      <circle cx="486.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.219979;0.220979;0.227972" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.219979;0.220979;0.227972" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-04-25: 9 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.214141;0.224242;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="518.5" cy="112.5" r="6.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="518.5" cy="112.5" r="4.5" fill="#FDE047" />
-      <circle cx="518.5" cy="112.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.213141;0.214141;0.224242" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.213141;0.214141;0.224242" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.223776;0.230769;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="502.5" cy="112.5" r="6.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="502.5" cy="112.5" r="4.5" fill="#FDE047" />
+      <circle cx="502.5" cy="112.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.222776;0.223776;0.230769" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.222776;0.223776;0.230769" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-05-05: 3 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.707071;0.717172;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="550.5" cy="48.5" r="3.5" fill="#FDE047" />
-      <circle cx="550.5" cy="48.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.706071;0.707071;0.717172" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.706071;0.707071;0.717172" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.240559;0.247552;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="534.5" cy="48.5" r="3.5" fill="#FDE047" />
+      <circle cx="534.5" cy="48.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.239559;0.240559;0.247552" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.239559;0.240559;0.247552" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-06-24: 5 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.262626;0.272727;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="662.5" cy="64.5" r="3.5" fill="#FDE047" />
-      <circle cx="662.5" cy="64.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.261626;0.262626;0.272727" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.261626;0.262626;0.272727" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.262937;0.269930;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="646.5" cy="64.5" r="3.5" fill="#FDE047" />
+      <circle cx="646.5" cy="64.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.261937;0.262937;0.269930" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.261937;0.262937;0.269930" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-06-25: 6 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.258586;0.268687;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="662.5" cy="80.5" r="6.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="662.5" cy="80.5" r="4.5" fill="#FDE047" />
-      <circle cx="662.5" cy="80.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.257586;0.258586;0.268687" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.257586;0.258586;0.268687" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.467133;0.474126;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="646.5" cy="80.5" r="6.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="646.5" cy="80.5" r="4.5" fill="#FDE047" />
+      <circle cx="646.5" cy="80.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.466133;0.467133;0.474126" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.466133;0.467133;0.474126" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-13: 37 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.408081;0.418182;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="774.5" cy="80.5" r="8.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="774.5" cy="80.5" r="5.5" fill="#FDE047" />
-      <circle cx="774.5" cy="80.5" r="6.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.407081;0.408081;0.418182" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="5.5;5.5;8.5;9.5" keyTimes="0;0.407081;0.408081;0.418182" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.542657;0.549650;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="758.5" cy="80.5" r="8.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="758.5" cy="80.5" r="5.5" fill="#FDE047" />
+      <circle cx="758.5" cy="80.5" r="6.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.541657;0.542657;0.549650" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="5.5;5.5;8.5;9.5" keyTimes="0;0.541657;0.542657;0.549650" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-16: 4 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.307071;0.317172;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="16.5" r="3.5" fill="#FDE047" />
-      <circle cx="790.5" cy="16.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.306071;0.307071;0.317172" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.306071;0.307071;0.317172" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.366434;0.373427;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="16.5" r="3.5" fill="#FDE047" />
+      <circle cx="774.5" cy="16.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.365434;0.366434;0.373427" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.365434;0.366434;0.373427" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-17: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.585859;0.595960;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="32.5" r="2.5" fill="#FDE047" />
-      <circle cx="790.5" cy="32.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.584859;0.585859;0.595960" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.584859;0.585859;0.595960" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.363636;0.370629;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="32.5" r="2.5" fill="#FDE047" />
+      <circle cx="774.5" cy="32.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.362636;0.363636;0.370629" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.362636;0.363636;0.370629" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-18: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.331313;0.341414;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="48.5" r="2.5" fill="#FDE047" />
-      <circle cx="790.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.330313;0.331313;0.341414" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.330313;0.331313;0.341414" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.288112;0.295105;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="48.5" r="2.5" fill="#FDE047" />
+      <circle cx="774.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.287112;0.288112;0.295105" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.287112;0.288112;0.295105" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-19: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.400000;0.410101;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="64.5" r="2.5" fill="#FDE047" />
-      <circle cx="790.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.399000;0.400000;0.410101" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.399000;0.400000;0.410101" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.290909;0.297902;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="64.5" r="2.5" fill="#FDE047" />
+      <circle cx="774.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.289909;0.290909;0.297902" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.289909;0.290909;0.297902" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-20: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.404040;0.414141;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="80.5" r="2.5" fill="#FDE047" />
-      <circle cx="790.5" cy="80.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.403040;0.404040;0.414141" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.403040;0.404040;0.414141" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.293706;0.300699;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="80.5" r="2.5" fill="#FDE047" />
+      <circle cx="774.5" cy="80.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.292706;0.293706;0.300699" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.292706;0.293706;0.300699" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-21: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.440404;0.450505;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="96.5" r="2.5" fill="#FDE047" />
-      <circle cx="790.5" cy="96.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.439404;0.440404;0.450505" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.439404;0.440404;0.450505" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.313287;0.320280;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="96.5" r="2.5" fill="#FDE047" />
+      <circle cx="774.5" cy="96.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.312287;0.313287;0.320280" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.312287;0.313287;0.320280" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-22: 28 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.630303;0.640404;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="790.5" cy="112.5" r="8.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="790.5" cy="112.5" r="5.5" fill="#FDE047" />
-      <circle cx="790.5" cy="112.5" r="6.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.629303;0.630303;0.640404" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="5.5;5.5;8.5;9.5" keyTimes="0;0.629303;0.630303;0.640404" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.316084;0.323077;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="774.5" cy="112.5" r="8.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="774.5" cy="112.5" r="5.5" fill="#FDE047" />
+      <circle cx="774.5" cy="112.5" r="6.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.315084;0.316084;0.323077" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="5.5;5.5;8.5;9.5" keyTimes="0;0.315084;0.316084;0.323077" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-23: 11 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.311111;0.321212;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="806.5" cy="16.5" r="8.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="806.5" cy="16.5" r="5.5" fill="#FDE047" />
-      <circle cx="806.5" cy="16.5" r="6.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.310111;0.311111;0.321212" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="5.5;5.5;8.5;9.5" keyTimes="0;0.310111;0.311111;0.321212" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.369231;0.376224;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="790.5" cy="16.5" r="8.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="790.5" cy="16.5" r="5.5" fill="#FDE047" />
+      <circle cx="790.5" cy="16.5" r="6.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.368231;0.369231;0.376224" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="5.5;5.5;8.5;9.5" keyTimes="0;0.368231;0.369231;0.376224" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-24: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.315152;0.325253;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="806.5" cy="32.5" r="2.5" fill="#FDE047" />
-      <circle cx="806.5" cy="32.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.314152;0.315152;0.325253" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.314152;0.315152;0.325253" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.372028;0.379021;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="790.5" cy="32.5" r="2.5" fill="#FDE047" />
+      <circle cx="790.5" cy="32.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.371028;0.372028;0.379021" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.371028;0.372028;0.379021" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-25: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.327273;0.337374;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="806.5" cy="48.5" r="2.5" fill="#FDE047" />
-      <circle cx="806.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.326273;0.327273;0.337374" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.326273;0.327273;0.337374" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.402797;0.409790;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="790.5" cy="48.5" r="2.5" fill="#FDE047" />
+      <circle cx="790.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.401797;0.402797;0.409790" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.401797;0.402797;0.409790" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-26: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.395960;0.406061;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="806.5" cy="64.5" r="2.5" fill="#FDE047" />
-      <circle cx="806.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.394960;0.395960;0.406061" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.394960;0.395960;0.406061" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.338462;0.345455;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="790.5" cy="64.5" r="2.5" fill="#FDE047" />
+      <circle cx="790.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.337462;0.338462;0.345455" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.337462;0.338462;0.345455" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-27: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.416162;0.426263;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="806.5" cy="80.5" r="2.5" fill="#FDE047" />
-      <circle cx="806.5" cy="80.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.415162;0.416162;0.426263" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.415162;0.416162;0.426263" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.296503;0.303497;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="790.5" cy="80.5" r="2.5" fill="#FDE047" />
+      <circle cx="790.5" cy="80.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.295503;0.296503;0.303497" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.295503;0.296503;0.303497" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-29: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.529293;0.539394;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="806.5" cy="112.5" r="2.5" fill="#FDE047" />
-      <circle cx="806.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.528293;0.529293;0.539394" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.528293;0.529293;0.539394" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.318881;0.325874;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="790.5" cy="112.5" r="2.5" fill="#FDE047" />
+      <circle cx="790.5" cy="112.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.317881;0.318881;0.325874" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.317881;0.318881;0.325874" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-30: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.347475;0.357576;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="16.5" r="2.5" fill="#FDE047" />
-      <circle cx="822.5" cy="16.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.346475;0.347475;0.357576" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.346475;0.347475;0.357576" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.377622;0.384615;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="16.5" r="2.5" fill="#FDE047" />
+      <circle cx="806.5" cy="16.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.376622;0.377622;0.384615" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.376622;0.377622;0.384615" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-08-31: 3 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.343434;0.353535;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="32.5" r="3.5" fill="#FDE047" />
-      <circle cx="822.5" cy="32.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.342434;0.343434;0.353535" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.342434;0.343434;0.353535" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.374825;0.381818;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="32.5" r="3.5" fill="#FDE047" />
+      <circle cx="806.5" cy="32.5" r="4.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.373825;0.374825;0.381818" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="3.5;3.5;6.5;7.5" keyTimes="0;0.373825;0.374825;0.381818" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-01: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.339394;0.349495;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="48.5" r="2.5" fill="#FDE047" />
-      <circle cx="822.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.338394;0.339394;0.349495" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.338394;0.339394;0.349495" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.383217;0.390210;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="48.5" r="2.5" fill="#FDE047" />
+      <circle cx="806.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.382217;0.383217;0.390210" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.382217;0.383217;0.390210" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-02: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.367677;0.377778;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="64.5" r="2.5" fill="#FDE047" />
-      <circle cx="822.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.366677;0.367677;0.377778" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.366677;0.367677;0.377778" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.302098;0.309091;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="64.5" r="2.5" fill="#FDE047" />
+      <circle cx="806.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.301098;0.302098;0.309091" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.301098;0.302098;0.309091" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-03: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.371717;0.381818;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="80.5" r="2.5" fill="#FDE047" />
-      <circle cx="822.5" cy="80.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.370717;0.371717;0.381818" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.370717;0.371717;0.381818" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.299301;0.306294;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="80.5" r="2.5" fill="#FDE047" />
+      <circle cx="806.5" cy="80.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.298301;0.299301;0.306294" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.298301;0.299301;0.306294" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-04: 6 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.432323;0.442424;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="96.5" r="6.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="822.5" cy="96.5" r="4.5" fill="#FDE047" />
-      <circle cx="822.5" cy="96.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.431323;0.432323;0.442424" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.431323;0.432323;0.442424" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.307692;0.314685;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="96.5" r="6.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="806.5" cy="96.5" r="4.5" fill="#FDE047" />
+      <circle cx="806.5" cy="96.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.306692;0.307692;0.314685" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.306692;0.307692;0.314685" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-05: 7 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.452525;0.462626;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="822.5" cy="112.5" r="6.5" fill="#FDE047" opacity="0.25" />
-      <circle cx="822.5" cy="112.5" r="4.5" fill="#FDE047" />
-      <circle cx="822.5" cy="112.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.451525;0.452525;0.462626" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.451525;0.452525;0.462626" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.808392;0.815385;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="806.5" cy="112.5" r="6.5" fill="#FDE047" opacity="0.25" />
+      <circle cx="806.5" cy="112.5" r="4.5" fill="#FDE047" />
+      <circle cx="806.5" cy="112.5" r="5.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.807392;0.808392;0.815385" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="4.5;4.5;7.5;8.5" keyTimes="0;0.807392;0.808392;0.815385" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-08: 2 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.359596;0.369697;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="838.5" cy="48.5" r="2.5" fill="#FDE047" />
-      <circle cx="838.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.358596;0.359596;0.369697" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.358596;0.359596;0.369697" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.514685;0.521678;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="822.5" cy="48.5" r="2.5" fill="#FDE047" />
+      <circle cx="822.5" cy="48.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.513685;0.514685;0.521678" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.513685;0.514685;0.521678" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <g>
       <title>2026-09-16: 1 contributions</title>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.383838;0.393939;1" dur="29.70s" repeatCount="indefinite" />
-      <circle cx="854.5" cy="64.5" r="2.5" fill="#FDE047" />
-      <circle cx="854.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.382838;0.383838;0.393939" dur="29.70s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.382838;0.383838;0.393939" dur="29.70s" repeatCount="indefinite" />  </circle>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.425175;0.432168;1" dur="42.90s" repeatCount="indefinite" />
+      <circle cx="838.5" cy="64.5" r="2.5" fill="#FDE047" />
+      <circle cx="838.5" cy="64.5" r="3.5" fill="white" opacity="0">    <animate attributeName="opacity" values="0;0;0.6;0" keyTimes="0;0.424175;0.425175;0.432168" dur="42.90s" repeatCount="indefinite" />    <animate attributeName="r" values="2.5;2.5;5.5;6.5" keyTimes="0;0.424175;0.425175;0.432168" dur="42.90s" repeatCount="indefinite" />  </circle>
     </g>
     <line x1="206.5" y1="88.5" x2="222.5" y2="88.5" stroke="#0284c7" stroke-width="4" stroke-linecap="round" opacity="0.45" />
     <line x1="206.5" y1="88.5" x2="222.5" y2="88.5" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" />
@@ -404,9 +404,9 @@
     
     <g>
       <path d="M 0 0 L 5 -5 A 7 7 0 1 0 5 5 Z" fill="#FFD93D">
-        <animateMotion dur="29.70s"
+        <animateMotion dur="42.90s"
           repeatCount="indefinite"
-          path="M 22.5 16.5 L 38.5 16.5 L 54.5 16.5 L 70.5 16.5 L 86.5 16.5 L 70.5 16.5 L 70.5 32.5 L 70.5 48.5 L 54.5 48.5 L 54.5 32.5 L 54.5 16.5 L 38.5 16.5 L 38.5 32.5 L 38.5 48.5 L 38.5 64.5 L 54.5 64.5 L 70.5 64.5 L 54.5 64.5 L 54.5 80.5 L 54.5 96.5 L 70.5 96.5 L 70.5 80.5 L 54.5 80.5 L 54.5 96.5 L 54.5 112.5 L 70.5 112.5 L 86.5 112.5 L 102.5 112.5 L 118.5 112.5 L 134.5 112.5 L 150.5 112.5 L 166.5 112.5 L 182.5 112.5 L 198.5 112.5 L 214.5 112.5 L 230.5 112.5 L 246.5 112.5 L 262.5 112.5 L 278.5 112.5 L 294.5 112.5 L 310.5 112.5 L 326.5 112.5 L 342.5 112.5 L 358.5 112.5 L 374.5 112.5 L 390.5 112.5 L 406.5 112.5 L 422.5 112.5 L 438.5 112.5 L 454.5 112.5 L 470.5 112.5 L 486.5 112.5 L 502.5 112.5 L 518.5 112.5 L 534.5 112.5 L 550.5 112.5 L 566.5 112.5 L 582.5 112.5 L 598.5 112.5 L 614.5 112.5 L 614.5 96.5 L 614.5 80.5 L 630.5 80.5 L 646.5 80.5 L 662.5 80.5 L 662.5 64.5 L 678.5 64.5 L 694.5 64.5 L 710.5 64.5 L 726.5 64.5 L 726.5 48.5 L 742.5 48.5 L 758.5 48.5 L 774.5 48.5 L 774.5 32.5 L 774.5 16.5 L 790.5 16.5 L 806.5 16.5 L 806.5 32.5 L 806.5 16.5 L 806.5 32.5 L 806.5 48.5 L 790.5 48.5 L 806.5 48.5 L 822.5 48.5 L 822.5 32.5 L 822.5 16.5 L 838.5 16.5 L 838.5 32.5 L 838.5 48.5 L 838.5 64.5 L 822.5 64.5 L 822.5 80.5 L 822.5 64.5 L 838.5 64.5 L 854.5 64.5 L 838.5 64.5 L 822.5 64.5 L 806.5 64.5 L 790.5 64.5 L 790.5 80.5 L 774.5 80.5 L 790.5 80.5 L 806.5 80.5 L 806.5 64.5 L 822.5 64.5 L 822.5 80.5 L 822.5 96.5 L 806.5 96.5 L 790.5 96.5 L 806.5 96.5 L 822.5 96.5 L 822.5 112.5 L 838.5 112.5 L 838.5 96.5 L 838.5 80.5 L 838.5 64.5 L 838.5 48.5 L 838.5 32.5 L 838.5 16.5 L 822.5 16.5 L 822.5 32.5 L 822.5 16.5 L 838.5 16.5 L 838.5 32.5 L 838.5 48.5 L 838.5 64.5 L 822.5 64.5 L 806.5 64.5 L 806.5 80.5 L 806.5 96.5 L 806.5 112.5 L 822.5 112.5 L 838.5 112.5 L 838.5 96.5 L 838.5 80.5 L 838.5 64.5 L 838.5 48.5 L 838.5 32.5 L 838.5 16.5 L 822.5 16.5 L 822.5 32.5 L 822.5 48.5 L 806.5 48.5 L 790.5 48.5 L 790.5 32.5 L 790.5 16.5 L 774.5 16.5 L 774.5 32.5 L 774.5 48.5 L 774.5 64.5 L 790.5 64.5 L 806.5 64.5 L 806.5 80.5 L 790.5 80.5 L 790.5 96.5 L 790.5 112.5 L 774.5 112.5 L 758.5 112.5 L 742.5 112.5 L 726.5 112.5 L 710.5 112.5 L 694.5 112.5 L 678.5 112.5 L 662.5 112.5 L 646.5 112.5 L 630.5 112.5 L 614.5 112.5 L 598.5 112.5 L 582.5 112.5 L 582.5 96.5 L 582.5 80.5 L 566.5 80.5 L 550.5 80.5 L 550.5 64.5 L 550.5 48.5 L 534.5 48.5 L 534.5 64.5 L 534.5 80.5 L 518.5 80.5 L 518.5 96.5 L 518.5 112.5 L 502.5 112.5 L 486.5 112.5 L 470.5 112.5 L 454.5 112.5 L 438.5 112.5 L 422.5 112.5 L 406.5 112.5 L 390.5 112.5 L 374.5 112.5 L 358.5 112.5 L 342.5 112.5 L 326.5 112.5 L 310.5 112.5 L 294.5 112.5 L 278.5 112.5 L 262.5 112.5 L 246.5 112.5 L 230.5 112.5 L 214.5 112.5 L 198.5 112.5 L 182.5 112.5 L 166.5 112.5 L 150.5 112.5 L 134.5 112.5 L 134.5 96.5 L 134.5 80.5 L 134.5 64.5 L 134.5 48.5 L 134.5 32.5 L 118.5 32.5 L 102.5 32.5 L 102.5 48.5 L 102.5 64.5 L 86.5 64.5 L 70.5 64.5 L 70.5 80.5 L 70.5 96.5 L 70.5 112.5 L 54.5 112.5 L 38.5 112.5 L 38.5 96.5 L 38.5 80.5 L 38.5 64.5 L 38.5 48.5 L 38.5 32.5 L 38.5 16.5 L 54.5 16.5 L 70.5 16.5 L 70.5 32.5 L 54.5 32.5 L 54.5 16.5 L 38.5 16.5 L 22.5 16.5"
+          path="M 22.5 16.5 L 38.5 16.5 L 54.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 70.5 32.5 L 86.5 32.5 L 86.5 16.5 L 102.5 16.5 L 118.5 16.5 L 118.5 32.5 L 102.5 32.5 L 102.5 48.5 L 102.5 64.5 L 86.5 64.5 L 70.5 64.5 L 54.5 64.5 L 38.5 64.5 L 38.5 80.5 L 38.5 96.5 L 38.5 112.5 L 54.5 112.5 L 38.5 112.5 L 38.5 96.5 L 38.5 80.5 L 38.5 64.5 L 38.5 48.5 L 38.5 32.5 L 38.5 16.5 L 54.5 16.5 L 38.5 16.5 L 38.5 32.5 L 38.5 48.5 L 38.5 64.5 L 54.5 64.5 L 54.5 80.5 L 38.5 80.5 L 38.5 64.5 L 38.5 48.5 L 38.5 32.5 L 38.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 86.5 16.5 L 102.5 16.5 L 118.5 16.5 L 134.5 16.5 L 150.5 16.5 L 166.5 16.5 L 182.5 16.5 L 198.5 16.5 L 214.5 16.5 L 230.5 16.5 L 246.5 16.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 310.5 32.5 L 326.5 32.5 L 342.5 32.5 L 358.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 454.5 32.5 L 470.5 32.5 L 486.5 32.5 L 486.5 48.5 L 486.5 64.5 L 486.5 80.5 L 486.5 96.5 L 486.5 112.5 L 502.5 112.5 L 518.5 112.5 L 518.5 96.5 L 518.5 80.5 L 534.5 80.5 L 534.5 64.5 L 534.5 48.5 L 550.5 48.5 L 566.5 48.5 L 582.5 48.5 L 598.5 48.5 L 598.5 64.5 L 614.5 64.5 L 630.5 64.5 L 646.5 64.5 L 662.5 64.5 L 678.5 64.5 L 694.5 64.5 L 710.5 64.5 L 726.5 64.5 L 726.5 48.5 L 742.5 48.5 L 758.5 48.5 L 774.5 48.5 L 774.5 64.5 L 774.5 80.5 L 790.5 80.5 L 806.5 80.5 L 806.5 64.5 L 806.5 80.5 L 806.5 96.5 L 790.5 96.5 L 774.5 96.5 L 774.5 112.5 L 790.5 112.5 L 790.5 96.5 L 790.5 80.5 L 774.5 80.5 L 774.5 64.5 L 774.5 48.5 L 774.5 64.5 L 790.5 64.5 L 790.5 80.5 L 790.5 96.5 L 790.5 112.5 L 774.5 112.5 L 774.5 96.5 L 774.5 80.5 L 774.5 64.5 L 774.5 48.5 L 774.5 32.5 L 774.5 16.5 L 790.5 16.5 L 790.5 32.5 L 806.5 32.5 L 806.5 16.5 L 806.5 32.5 L 806.5 48.5 L 806.5 32.5 L 790.5 32.5 L 790.5 16.5 L 774.5 16.5 L 790.5 16.5 L 790.5 32.5 L 790.5 48.5 L 790.5 32.5 L 790.5 16.5 L 806.5 16.5 L 822.5 16.5 L 838.5 16.5 L 838.5 32.5 L 838.5 48.5 L 838.5 64.5 L 822.5 64.5 L 806.5 64.5 L 790.5 64.5 L 774.5 64.5 L 758.5 64.5 L 742.5 64.5 L 742.5 48.5 L 726.5 48.5 L 710.5 48.5 L 694.5 48.5 L 678.5 48.5 L 662.5 48.5 L 662.5 64.5 L 646.5 64.5 L 646.5 80.5 L 662.5 80.5 L 678.5 80.5 L 694.5 80.5 L 710.5 80.5 L 726.5 80.5 L 726.5 64.5 L 726.5 48.5 L 742.5 48.5 L 758.5 48.5 L 774.5 48.5 L 774.5 32.5 L 774.5 16.5 L 790.5 16.5 L 806.5 16.5 L 822.5 16.5 L 822.5 32.5 L 822.5 48.5 L 806.5 48.5 L 790.5 48.5 L 790.5 32.5 L 790.5 16.5 L 774.5 16.5 L 758.5 16.5 L 758.5 32.5 L 758.5 48.5 L 758.5 64.5 L 758.5 80.5 L 742.5 80.5 L 742.5 96.5 L 742.5 112.5 L 726.5 112.5 L 710.5 112.5 L 694.5 112.5 L 678.5 112.5 L 662.5 112.5 L 646.5 112.5 L 630.5 112.5 L 614.5 112.5 L 598.5 112.5 L 582.5 112.5 L 566.5 112.5 L 550.5 112.5 L 534.5 112.5 L 518.5 112.5 L 502.5 112.5 L 486.5 112.5 L 470.5 112.5 L 454.5 112.5 L 438.5 112.5 L 422.5 112.5 L 406.5 112.5 L 390.5 112.5 L 374.5 112.5 L 358.5 112.5 L 342.5 112.5 L 326.5 112.5 L 310.5 112.5 L 294.5 112.5 L 278.5 112.5 L 262.5 112.5 L 246.5 112.5 L 230.5 112.5 L 214.5 112.5 L 198.5 112.5 L 182.5 112.5 L 166.5 112.5 L 150.5 112.5 L 134.5 112.5 L 118.5 112.5 L 102.5 112.5 L 86.5 112.5 L 70.5 112.5 L 54.5 112.5 L 54.5 96.5 L 70.5 96.5 L 86.5 96.5 L 102.5 96.5 L 118.5 96.5 L 134.5 96.5 L 134.5 112.5 L 150.5 112.5 L 166.5 112.5 L 182.5 112.5 L 198.5 112.5 L 214.5 112.5 L 230.5 112.5 L 246.5 112.5 L 262.5 112.5 L 278.5 112.5 L 294.5 112.5 L 310.5 112.5 L 326.5 112.5 L 342.5 112.5 L 358.5 112.5 L 374.5 112.5 L 390.5 112.5 L 406.5 112.5 L 422.5 112.5 L 438.5 112.5 L 454.5 112.5 L 470.5 112.5 L 486.5 112.5 L 502.5 112.5 L 518.5 112.5 L 534.5 112.5 L 550.5 112.5 L 566.5 112.5 L 582.5 112.5 L 598.5 112.5 L 614.5 112.5 L 630.5 112.5 L 646.5 112.5 L 662.5 112.5 L 678.5 112.5 L 694.5 112.5 L 710.5 112.5 L 726.5 112.5 L 742.5 112.5 L 758.5 112.5 L 774.5 112.5 L 790.5 112.5 L 806.5 112.5 L 790.5 112.5 L 774.5 112.5 L 758.5 112.5 L 742.5 112.5 L 726.5 112.5 L 710.5 112.5 L 694.5 112.5 L 678.5 112.5 L 662.5 112.5 L 646.5 112.5 L 630.5 112.5 L 614.5 112.5 L 598.5 112.5 L 582.5 112.5 L 566.5 112.5 L 550.5 112.5 L 534.5 112.5 L 518.5 112.5 L 502.5 112.5 L 486.5 112.5 L 470.5 112.5 L 454.5 112.5 L 438.5 112.5 L 422.5 112.5 L 406.5 112.5 L 390.5 112.5 L 374.5 112.5 L 358.5 112.5 L 342.5 112.5 L 326.5 112.5 L 310.5 112.5 L 294.5 112.5 L 278.5 112.5 L 262.5 112.5 L 246.5 112.5 L 230.5 112.5 L 214.5 112.5 L 198.5 112.5 L 182.5 112.5 L 166.5 112.5 L 150.5 112.5 L 134.5 112.5 L 118.5 112.5 L 102.5 112.5 L 86.5 112.5 L 70.5 112.5 L 54.5 112.5 L 38.5 112.5 L 22.5 112.5 L 22.5 96.5 L 22.5 80.5 L 22.5 64.5 L 22.5 48.5 L 22.5 32.5 L 22.5 16.5"
           rotate="auto" />
         <animateTransform attributeName="transform"
           type="scale"
@@ -421,13 +421,13 @@
       <path d="M -6 2 C -6 -3,-3 -5,0 -5 C 3 -5,6 -3,6 2
                L 6 6 L 4 4 L 2 6 L 0 4 L -2 6 L -4 4 L -6 6 Z"
             fill="#ff3b30">
-        <animateMotion dur="12.28s" repeatCount="indefinite" path="M 422.5 64.5 L 422.5 48.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 406.5 16.5 L 390.5 16.5 L 374.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 16.5 L 358.5 16.5 L 342.5 16.5 L 326.5 16.5 L 310.5 16.5 L 326.5 16.5 L 342.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 48.5 L 374.5 64.5 L 374.5 80.5 L 390.5 80.5 L 390.5 96.5 L 390.5 112.5 L 374.5 112.5 L 358.5 112.5 L 358.5 96.5 L 374.5 96.5 L 390.5 96.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5" />
+        <animateMotion dur="12.28s" repeatCount="indefinite" path="M 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 438.5 16.5 L 454.5 16.5 L 470.5 16.5 L 470.5 32.5 L 486.5 32.5 L 486.5 48.5 L 486.5 64.5 L 486.5 80.5 L 502.5 80.5 L 502.5 96.5 L 486.5 96.5 L 486.5 112.5 L 470.5 112.5 L 454.5 112.5 L 454.5 96.5 L 438.5 96.5 L 422.5 96.5 L 406.5 96.5 L 390.5 96.5 L 390.5 80.5 L 374.5 80.5 L 358.5 80.5 L 358.5 96.5 L 374.5 96.5 L 374.5 80.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 422.5 16.5 L 406.5 16.5 L 406.5 32.5 L 390.5 32.5 L 390.5 48.5 L 374.5 48.5 L 374.5 64.5 L 390.5 64.5 L 390.5 80.5 L 390.5 96.5 L 406.5 96.5 L 422.5 96.5 L 438.5 96.5 L 438.5 112.5 L 454.5 112.5 L 470.5 112.5 L 486.5 112.5 L 486.5 96.5 L 502.5 96.5 L 518.5 96.5 L 502.5 96.5 L 486.5 96.5 L 486.5 80.5 L 486.5 64.5 L 486.5 48.5 L 486.5 32.5 L 470.5 32.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5" />
       </path>
       <circle cx="-2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="12.28s" repeatCount="indefinite" path="M 422.5 64.5 L 422.5 48.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 406.5 16.5 L 390.5 16.5 L 374.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 16.5 L 358.5 16.5 L 342.5 16.5 L 326.5 16.5 L 310.5 16.5 L 326.5 16.5 L 342.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 48.5 L 374.5 64.5 L 374.5 80.5 L 390.5 80.5 L 390.5 96.5 L 390.5 112.5 L 374.5 112.5 L 358.5 112.5 L 358.5 96.5 L 374.5 96.5 L 390.5 96.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5" />
+        <animateMotion dur="12.28s" repeatCount="indefinite" path="M 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 438.5 16.5 L 454.5 16.5 L 470.5 16.5 L 470.5 32.5 L 486.5 32.5 L 486.5 48.5 L 486.5 64.5 L 486.5 80.5 L 502.5 80.5 L 502.5 96.5 L 486.5 96.5 L 486.5 112.5 L 470.5 112.5 L 454.5 112.5 L 454.5 96.5 L 438.5 96.5 L 422.5 96.5 L 406.5 96.5 L 390.5 96.5 L 390.5 80.5 L 374.5 80.5 L 358.5 80.5 L 358.5 96.5 L 374.5 96.5 L 374.5 80.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 422.5 16.5 L 406.5 16.5 L 406.5 32.5 L 390.5 32.5 L 390.5 48.5 L 374.5 48.5 L 374.5 64.5 L 390.5 64.5 L 390.5 80.5 L 390.5 96.5 L 406.5 96.5 L 422.5 96.5 L 438.5 96.5 L 438.5 112.5 L 454.5 112.5 L 470.5 112.5 L 486.5 112.5 L 486.5 96.5 L 502.5 96.5 L 518.5 96.5 L 502.5 96.5 L 486.5 96.5 L 486.5 80.5 L 486.5 64.5 L 486.5 48.5 L 486.5 32.5 L 470.5 32.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5" />
       </circle>
       <circle cx="2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="12.28s" repeatCount="indefinite" path="M 422.5 64.5 L 422.5 48.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 406.5 16.5 L 390.5 16.5 L 374.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 16.5 L 358.5 16.5 L 342.5 16.5 L 326.5 16.5 L 310.5 16.5 L 326.5 16.5 L 342.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 48.5 L 374.5 64.5 L 374.5 80.5 L 390.5 80.5 L 390.5 96.5 L 390.5 112.5 L 374.5 112.5 L 358.5 112.5 L 358.5 96.5 L 374.5 96.5 L 390.5 96.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5" />
+        <animateMotion dur="12.28s" repeatCount="indefinite" path="M 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 438.5 16.5 L 454.5 16.5 L 470.5 16.5 L 470.5 32.5 L 486.5 32.5 L 486.5 48.5 L 486.5 64.5 L 486.5 80.5 L 502.5 80.5 L 502.5 96.5 L 486.5 96.5 L 486.5 112.5 L 470.5 112.5 L 454.5 112.5 L 454.5 96.5 L 438.5 96.5 L 422.5 96.5 L 406.5 96.5 L 390.5 96.5 L 390.5 80.5 L 374.5 80.5 L 358.5 80.5 L 358.5 96.5 L 374.5 96.5 L 374.5 80.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 422.5 16.5 L 406.5 16.5 L 406.5 32.5 L 390.5 32.5 L 390.5 48.5 L 374.5 48.5 L 374.5 64.5 L 390.5 64.5 L 390.5 80.5 L 390.5 96.5 L 406.5 96.5 L 422.5 96.5 L 438.5 96.5 L 438.5 112.5 L 454.5 112.5 L 470.5 112.5 L 486.5 112.5 L 486.5 96.5 L 502.5 96.5 L 518.5 96.5 L 502.5 96.5 L 486.5 96.5 L 486.5 80.5 L 486.5 64.5 L 486.5 48.5 L 486.5 32.5 L 470.5 32.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5" />
       </circle>
     </g>
     
@@ -435,13 +435,13 @@
       <path d="M -6 2 C -6 -3,-3 -5,0 -5 C 3 -5,6 -3,6 2
                L 6 6 L 4 4 L 2 6 L 0 4 L -2 6 L -4 4 L -6 6 Z"
             fill="#ff6bcb">
-        <animateMotion dur="14.51s" repeatCount="indefinite" path="M 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 438.5 64.5 L 438.5 48.5 L 438.5 32.5 L 454.5 32.5 L 454.5 16.5 L 470.5 16.5 L 470.5 32.5 L 486.5 32.5 L 486.5 16.5 L 502.5 16.5 L 518.5 16.5 L 518.5 32.5 L 502.5 32.5 L 502.5 48.5 L 518.5 48.5 L 518.5 32.5 L 518.5 16.5 L 502.5 16.5 L 502.5 32.5 L 486.5 32.5 L 486.5 16.5 L 470.5 16.5 L 454.5 16.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5" />
+        <animateMotion dur="15.13s" repeatCount="indefinite" path="M 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 454.5 32.5 L 454.5 16.5 L 438.5 16.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 406.5 16.5 L 422.5 16.5 L 438.5 16.5 L 454.5 16.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 438.5 64.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 438.5 64.5" />
       </path>
       <circle cx="-2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="14.51s" repeatCount="indefinite" path="M 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 438.5 64.5 L 438.5 48.5 L 438.5 32.5 L 454.5 32.5 L 454.5 16.5 L 470.5 16.5 L 470.5 32.5 L 486.5 32.5 L 486.5 16.5 L 502.5 16.5 L 518.5 16.5 L 518.5 32.5 L 502.5 32.5 L 502.5 48.5 L 518.5 48.5 L 518.5 32.5 L 518.5 16.5 L 502.5 16.5 L 502.5 32.5 L 486.5 32.5 L 486.5 16.5 L 470.5 16.5 L 454.5 16.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5" />
+        <animateMotion dur="15.13s" repeatCount="indefinite" path="M 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 454.5 32.5 L 454.5 16.5 L 438.5 16.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 406.5 16.5 L 422.5 16.5 L 438.5 16.5 L 454.5 16.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 438.5 64.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 438.5 64.5" />
       </circle>
       <circle cx="2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="14.51s" repeatCount="indefinite" path="M 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 438.5 64.5 L 438.5 48.5 L 438.5 32.5 L 454.5 32.5 L 454.5 16.5 L 470.5 16.5 L 470.5 32.5 L 486.5 32.5 L 486.5 16.5 L 502.5 16.5 L 518.5 16.5 L 518.5 32.5 L 502.5 32.5 L 502.5 48.5 L 518.5 48.5 L 518.5 32.5 L 518.5 16.5 L 502.5 16.5 L 502.5 32.5 L 486.5 32.5 L 486.5 16.5 L 470.5 16.5 L 454.5 16.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5" />
+        <animateMotion dur="15.13s" repeatCount="indefinite" path="M 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 454.5 32.5 L 454.5 16.5 L 438.5 16.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 406.5 16.5 L 422.5 16.5 L 438.5 16.5 L 454.5 16.5 L 454.5 32.5 L 438.5 32.5 L 438.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 422.5 64.5 L 422.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 438.5 64.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 438.5 64.5" />
       </circle>
     </g>
     
@@ -449,13 +449,13 @@
       <path d="M -6 2 C -6 -3,-3 -5,0 -5 C 3 -5,6 -3,6 2
                L 6 6 L 4 4 L 2 6 L 0 4 L -2 6 L -4 4 L -6 6 Z"
             fill="#00c7ff">
-        <animateMotion dur="15.98s" repeatCount="indefinite" path="M 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 390.5 48.5 L 374.5 48.5 L 358.5 48.5 L 358.5 32.5 L 358.5 16.5 L 374.5 16.5 L 374.5 32.5 L 358.5 32.5 L 342.5 32.5 L 342.5 48.5 L 342.5 64.5 L 326.5 64.5 L 326.5 80.5 L 342.5 80.5 L 358.5 80.5 L 358.5 96.5 L 358.5 112.5 L 374.5 112.5 L 374.5 96.5 L 374.5 80.5 L 390.5 80.5 L 390.5 96.5 L 374.5 96.5 L 374.5 80.5 L 358.5 80.5 L 358.5 96.5 L 374.5 96.5 L 374.5 112.5 L 358.5 112.5 L 358.5 96.5 L 358.5 80.5 L 374.5 80.5 L 374.5 64.5 L 374.5 48.5 L 390.5 48.5 L 390.5 32.5 L 390.5 16.5 L 374.5 16.5 L 374.5 32.5 L 374.5 48.5 L 358.5 48.5 L 358.5 64.5 L 374.5 64.5 L 390.5 64.5 L 390.5 48.5 L 374.5 48.5 L 374.5 32.5 L 374.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 48.5 L 374.5 64.5 L 390.5 64.5 L 390.5 48.5 L 374.5 48.5 L 374.5 64.5 L 374.5 80.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5" />
+        <animateMotion dur="16.56s" repeatCount="indefinite" path="M 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 374.5 32.5 L 374.5 16.5 L 390.5 16.5 L 390.5 32.5 L 390.5 48.5 L 390.5 64.5 L 374.5 64.5 L 358.5 64.5 L 358.5 80.5 L 342.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 342.5 48.5 L 342.5 64.5 L 342.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 310.5 48.5 L 294.5 48.5 L 278.5 48.5 L 294.5 48.5 L 310.5 48.5 L 326.5 48.5 L 342.5 48.5 L 342.5 32.5 L 358.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5" />
       </path>
       <circle cx="-2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="15.98s" repeatCount="indefinite" path="M 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 390.5 48.5 L 374.5 48.5 L 358.5 48.5 L 358.5 32.5 L 358.5 16.5 L 374.5 16.5 L 374.5 32.5 L 358.5 32.5 L 342.5 32.5 L 342.5 48.5 L 342.5 64.5 L 326.5 64.5 L 326.5 80.5 L 342.5 80.5 L 358.5 80.5 L 358.5 96.5 L 358.5 112.5 L 374.5 112.5 L 374.5 96.5 L 374.5 80.5 L 390.5 80.5 L 390.5 96.5 L 374.5 96.5 L 374.5 80.5 L 358.5 80.5 L 358.5 96.5 L 374.5 96.5 L 374.5 112.5 L 358.5 112.5 L 358.5 96.5 L 358.5 80.5 L 374.5 80.5 L 374.5 64.5 L 374.5 48.5 L 390.5 48.5 L 390.5 32.5 L 390.5 16.5 L 374.5 16.5 L 374.5 32.5 L 374.5 48.5 L 358.5 48.5 L 358.5 64.5 L 374.5 64.5 L 390.5 64.5 L 390.5 48.5 L 374.5 48.5 L 374.5 32.5 L 374.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 48.5 L 374.5 64.5 L 390.5 64.5 L 390.5 48.5 L 374.5 48.5 L 374.5 64.5 L 374.5 80.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5" />
+        <animateMotion dur="16.56s" repeatCount="indefinite" path="M 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 374.5 32.5 L 374.5 16.5 L 390.5 16.5 L 390.5 32.5 L 390.5 48.5 L 390.5 64.5 L 374.5 64.5 L 358.5 64.5 L 358.5 80.5 L 342.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 342.5 48.5 L 342.5 64.5 L 342.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 310.5 48.5 L 294.5 48.5 L 278.5 48.5 L 294.5 48.5 L 310.5 48.5 L 326.5 48.5 L 342.5 48.5 L 342.5 32.5 L 358.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5" />
       </circle>
       <circle cx="2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="15.98s" repeatCount="indefinite" path="M 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 48.5 L 438.5 48.5 L 438.5 64.5 L 454.5 64.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 438.5 64.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 454.5 64.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 454.5 64.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 470.5 80.5 L 454.5 80.5 L 438.5 80.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 390.5 48.5 L 374.5 48.5 L 358.5 48.5 L 358.5 32.5 L 358.5 16.5 L 374.5 16.5 L 374.5 32.5 L 358.5 32.5 L 342.5 32.5 L 342.5 48.5 L 342.5 64.5 L 326.5 64.5 L 326.5 80.5 L 342.5 80.5 L 358.5 80.5 L 358.5 96.5 L 358.5 112.5 L 374.5 112.5 L 374.5 96.5 L 374.5 80.5 L 390.5 80.5 L 390.5 96.5 L 374.5 96.5 L 374.5 80.5 L 358.5 80.5 L 358.5 96.5 L 374.5 96.5 L 374.5 112.5 L 358.5 112.5 L 358.5 96.5 L 358.5 80.5 L 374.5 80.5 L 374.5 64.5 L 374.5 48.5 L 390.5 48.5 L 390.5 32.5 L 390.5 16.5 L 374.5 16.5 L 374.5 32.5 L 374.5 48.5 L 358.5 48.5 L 358.5 64.5 L 374.5 64.5 L 390.5 64.5 L 390.5 48.5 L 374.5 48.5 L 374.5 32.5 L 374.5 16.5 L 358.5 16.5 L 358.5 32.5 L 374.5 32.5 L 374.5 48.5 L 374.5 64.5 L 390.5 64.5 L 390.5 48.5 L 374.5 48.5 L 374.5 64.5 L 374.5 80.5 L 390.5 80.5 L 390.5 64.5 L 390.5 48.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5" />
+        <animateMotion dur="16.56s" repeatCount="indefinite" path="M 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 454.5 48.5 L 470.5 48.5 L 470.5 64.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 422.5 48.5 L 406.5 48.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 438.5 48.5 L 438.5 64.5 L 438.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 80.5 L 422.5 80.5 L 422.5 64.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 406.5 48.5 L 422.5 48.5 L 422.5 64.5 L 422.5 80.5 L 406.5 80.5 L 406.5 64.5 L 422.5 64.5 L 438.5 64.5 L 438.5 80.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 454.5 64.5 L 454.5 80.5 L 470.5 80.5 L 470.5 64.5 L 470.5 48.5 L 454.5 48.5 L 454.5 64.5 L 438.5 64.5 L 438.5 48.5 L 438.5 32.5 L 422.5 32.5 L 406.5 32.5 L 390.5 32.5 L 374.5 32.5 L 374.5 16.5 L 390.5 16.5 L 390.5 32.5 L 390.5 48.5 L 390.5 64.5 L 374.5 64.5 L 358.5 64.5 L 358.5 80.5 L 342.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 342.5 48.5 L 342.5 64.5 L 342.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 310.5 48.5 L 294.5 48.5 L 278.5 48.5 L 294.5 48.5 L 310.5 48.5 L 326.5 48.5 L 342.5 48.5 L 342.5 32.5 L 358.5 32.5 L 374.5 32.5 L 390.5 32.5 L 406.5 32.5 L 422.5 32.5 L 438.5 32.5 L 438.5 48.5 L 454.5 48.5 L 454.5 64.5" />
       </circle>
     </g>
     
@@ -463,13 +463,13 @@
       <path d="M -6 2 C -6 -3,-3 -5,0 -5 C 3 -5,6 -3,6 2
                L 6 6 L 4 4 L 2 6 L 0 4 L -2 6 L -4 4 L -6 6 Z"
             fill="#ff9500">
-        <animateMotion dur="19.66s" repeatCount="indefinite" path="M 182.5 64.5 L 182.5 48.5 L 198.5 48.5 L 198.5 32.5 L 214.5 32.5 L 214.5 48.5 L 230.5 48.5 L 230.5 32.5 L 214.5 32.5 L 214.5 48.5 L 230.5 48.5 L 246.5 48.5 L 262.5 48.5 L 262.5 32.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 310.5 32.5 L 310.5 48.5 L 294.5 48.5 L 278.5 48.5 L 278.5 64.5 L 278.5 80.5 L 294.5 80.5 L 294.5 96.5 L 278.5 96.5 L 262.5 96.5 L 262.5 112.5 L 278.5 112.5 L 278.5 96.5 L 278.5 80.5 L 278.5 64.5 L 294.5 64.5 L 294.5 80.5 L 310.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 310.5 48.5 L 310.5 32.5 L 326.5 32.5 L 326.5 48.5 L 342.5 48.5 L 342.5 32.5 L 358.5 32.5 L 358.5 48.5 L 358.5 64.5 L 374.5 64.5 L 374.5 80.5 L 374.5 96.5 L 358.5 96.5 L 342.5 96.5 L 342.5 112.5 L 326.5 112.5 L 310.5 112.5 L 294.5 112.5 L 278.5 112.5 L 278.5 96.5 L 294.5 96.5 L 294.5 112.5 L 278.5 112.5 L 262.5 112.5 L 262.5 96.5 L 278.5 96.5 L 294.5 96.5 L 294.5 80.5 L 294.5 64.5 L 294.5 48.5 L 278.5 48.5 L 278.5 32.5 L 262.5 32.5 L 262.5 48.5 L 278.5 48.5 L 278.5 64.5 L 278.5 80.5 L 262.5 80.5 L 262.5 96.5 L 278.5 96.5 L 278.5 80.5 L 294.5 80.5 L 294.5 64.5 L 278.5 64.5 L 278.5 48.5 L 262.5 48.5 L 262.5 32.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 278.5 32.5 L 278.5 16.5 L 262.5 16.5 L 246.5 16.5 L 246.5 32.5 L 230.5 32.5 L 230.5 48.5 L 246.5 48.5 L 246.5 32.5 L 246.5 16.5 L 230.5 16.5 L 230.5 32.5 L 246.5 32.5 L 246.5 48.5 L 230.5 48.5 L 230.5 32.5 L 246.5 32.5 L 246.5 16.5 L 262.5 16.5 L 262.5 32.5 L 262.5 48.5 L 246.5 48.5 L 230.5 48.5 L 214.5 48.5 L 198.5 48.5 L 182.5 48.5 L 182.5 64.5" />
+        <animateMotion dur="18.98s" repeatCount="indefinite" path="M 182.5 64.5 L 166.5 64.5 L 166.5 48.5 L 150.5 48.5 L 134.5 48.5 L 134.5 32.5 L 118.5 32.5 L 118.5 16.5 L 102.5 16.5 L 86.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 70.5 32.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 86.5 16.5 L 102.5 16.5 L 102.5 32.5 L 118.5 32.5 L 118.5 48.5 L 102.5 48.5 L 102.5 64.5 L 118.5 64.5 L 118.5 48.5 L 102.5 48.5 L 102.5 32.5 L 102.5 16.5 L 86.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 70.5 32.5 L 54.5 32.5 L 54.5 16.5 L 70.5 16.5 L 70.5 32.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 70.5 32.5 L 86.5 32.5 L 86.5 48.5 L 70.5 48.5 L 70.5 32.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 70.5 32.5 L 70.5 16.5 L 86.5 16.5 L 102.5 16.5 L 118.5 16.5 L 118.5 32.5 L 134.5 32.5 L 150.5 32.5 L 166.5 32.5 L 182.5 32.5 L 198.5 32.5 L 198.5 48.5 L 182.5 48.5 L 166.5 48.5 L 150.5 48.5 L 150.5 64.5 L 166.5 64.5 L 166.5 48.5 L 182.5 48.5 L 198.5 48.5 L 198.5 64.5 L 182.5 64.5 L 182.5 80.5 L 198.5 80.5 L 198.5 64.5 L 182.5 64.5 L 182.5 48.5 L 166.5 48.5 L 166.5 32.5 L 150.5 32.5 L 150.5 48.5 L 166.5 48.5 L 182.5 48.5 L 182.5 32.5 L 166.5 32.5 L 150.5 32.5 L 150.5 48.5 L 150.5 64.5 L 166.5 64.5 L 182.5 64.5 L 182.5 48.5 L 166.5 48.5 L 166.5 64.5 L 150.5 64.5 L 150.5 80.5 L 150.5 96.5 L 166.5 96.5 L 166.5 112.5 L 182.5 112.5 L 182.5 96.5 L 182.5 80.5 L 182.5 64.5 L 166.5 64.5 L 150.5 64.5 L 166.5 64.5 L 182.5 64.5" />
       </path>
       <circle cx="-2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="19.66s" repeatCount="indefinite" path="M 182.5 64.5 L 182.5 48.5 L 198.5 48.5 L 198.5 32.5 L 214.5 32.5 L 214.5 48.5 L 230.5 48.5 L 230.5 32.5 L 214.5 32.5 L 214.5 48.5 L 230.5 48.5 L 246.5 48.5 L 262.5 48.5 L 262.5 32.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 310.5 32.5 L 310.5 48.5 L 294.5 48.5 L 278.5 48.5 L 278.5 64.5 L 278.5 80.5 L 294.5 80.5 L 294.5 96.5 L 278.5 96.5 L 262.5 96.5 L 262.5 112.5 L 278.5 112.5 L 278.5 96.5 L 278.5 80.5 L 278.5 64.5 L 294.5 64.5 L 294.5 80.5 L 310.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 310.5 48.5 L 310.5 32.5 L 326.5 32.5 L 326.5 48.5 L 342.5 48.5 L 342.5 32.5 L 358.5 32.5 L 358.5 48.5 L 358.5 64.5 L 374.5 64.5 L 374.5 80.5 L 374.5 96.5 L 358.5 96.5 L 342.5 96.5 L 342.5 112.5 L 326.5 112.5 L 310.5 112.5 L 294.5 112.5 L 278.5 112.5 L 278.5 96.5 L 294.5 96.5 L 294.5 112.5 L 278.5 112.5 L 262.5 112.5 L 262.5 96.5 L 278.5 96.5 L 294.5 96.5 L 294.5 80.5 L 294.5 64.5 L 294.5 48.5 L 278.5 48.5 L 278.5 32.5 L 262.5 32.5 L 262.5 48.5 L 278.5 48.5 L 278.5 64.5 L 278.5 80.5 L 262.5 80.5 L 262.5 96.5 L 278.5 96.5 L 278.5 80.5 L 294.5 80.5 L 294.5 64.5 L 278.5 64.5 L 278.5 48.5 L 262.5 48.5 L 262.5 32.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 278.5 32.5 L 278.5 16.5 L 262.5 16.5 L 246.5 16.5 L 246.5 32.5 L 230.5 32.5 L 230.5 48.5 L 246.5 48.5 L 246.5 32.5 L 246.5 16.5 L 230.5 16.5 L 230.5 32.5 L 246.5 32.5 L 246.5 48.5 L 230.5 48.5 L 230.5 32.5 L 246.5 32.5 L 246.5 16.5 L 262.5 16.5 L 262.5 32.5 L 262.5 48.5 L 246.5 48.5 L 230.5 48.5 L 214.5 48.5 L 198.5 48.5 L 182.5 48.5 L 182.5 64.5" />
+        <animateMotion dur="18.98s" repeatCount="indefinite" path="M 182.5 64.5 L 166.5 64.5 L 166.5 48.5 L 150.5 48.5 L 134.5 48.5 L 134.5 32.5 L 118.5 32.5 L 118.5 16.5 L 102.5 16.5 L 86.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 70.5 32.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 86.5 16.5 L 102.5 16.5 L 102.5 32.5 L 118.5 32.5 L 118.5 48.5 L 102.5 48.5 L 102.5 64.5 L 118.5 64.5 L 118.5 48.5 L 102.5 48.5 L 102.5 32.5 L 102.5 16.5 L 86.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 70.5 32.5 L 54.5 32.5 L 54.5 16.5 L 70.5 16.5 L 70.5 32.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 70.5 32.5 L 86.5 32.5 L 86.5 48.5 L 70.5 48.5 L 70.5 32.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 70.5 32.5 L 70.5 16.5 L 86.5 16.5 L 102.5 16.5 L 118.5 16.5 L 118.5 32.5 L 134.5 32.5 L 150.5 32.5 L 166.5 32.5 L 182.5 32.5 L 198.5 32.5 L 198.5 48.5 L 182.5 48.5 L 166.5 48.5 L 150.5 48.5 L 150.5 64.5 L 166.5 64.5 L 166.5 48.5 L 182.5 48.5 L 198.5 48.5 L 198.5 64.5 L 182.5 64.5 L 182.5 80.5 L 198.5 80.5 L 198.5 64.5 L 182.5 64.5 L 182.5 48.5 L 166.5 48.5 L 166.5 32.5 L 150.5 32.5 L 150.5 48.5 L 166.5 48.5 L 182.5 48.5 L 182.5 32.5 L 166.5 32.5 L 150.5 32.5 L 150.5 48.5 L 150.5 64.5 L 166.5 64.5 L 182.5 64.5 L 182.5 48.5 L 166.5 48.5 L 166.5 64.5 L 150.5 64.5 L 150.5 80.5 L 150.5 96.5 L 166.5 96.5 L 166.5 112.5 L 182.5 112.5 L 182.5 96.5 L 182.5 80.5 L 182.5 64.5 L 166.5 64.5 L 150.5 64.5 L 166.5 64.5 L 182.5 64.5" />
       </circle>
       <circle cx="2" cy="0" r="1.5" fill="white">
-        <animateMotion dur="19.66s" repeatCount="indefinite" path="M 182.5 64.5 L 182.5 48.5 L 198.5 48.5 L 198.5 32.5 L 214.5 32.5 L 214.5 48.5 L 230.5 48.5 L 230.5 32.5 L 214.5 32.5 L 214.5 48.5 L 230.5 48.5 L 246.5 48.5 L 262.5 48.5 L 262.5 32.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 310.5 32.5 L 310.5 48.5 L 294.5 48.5 L 278.5 48.5 L 278.5 64.5 L 278.5 80.5 L 294.5 80.5 L 294.5 96.5 L 278.5 96.5 L 262.5 96.5 L 262.5 112.5 L 278.5 112.5 L 278.5 96.5 L 278.5 80.5 L 278.5 64.5 L 294.5 64.5 L 294.5 80.5 L 310.5 80.5 L 326.5 80.5 L 326.5 64.5 L 326.5 48.5 L 310.5 48.5 L 310.5 32.5 L 326.5 32.5 L 326.5 48.5 L 342.5 48.5 L 342.5 32.5 L 358.5 32.5 L 358.5 48.5 L 358.5 64.5 L 374.5 64.5 L 374.5 80.5 L 374.5 96.5 L 358.5 96.5 L 342.5 96.5 L 342.5 112.5 L 326.5 112.5 L 310.5 112.5 L 294.5 112.5 L 278.5 112.5 L 278.5 96.5 L 294.5 96.5 L 294.5 112.5 L 278.5 112.5 L 262.5 112.5 L 262.5 96.5 L 278.5 96.5 L 294.5 96.5 L 294.5 80.5 L 294.5 64.5 L 294.5 48.5 L 278.5 48.5 L 278.5 32.5 L 262.5 32.5 L 262.5 48.5 L 278.5 48.5 L 278.5 64.5 L 278.5 80.5 L 262.5 80.5 L 262.5 96.5 L 278.5 96.5 L 278.5 80.5 L 294.5 80.5 L 294.5 64.5 L 278.5 64.5 L 278.5 48.5 L 262.5 48.5 L 262.5 32.5 L 262.5 16.5 L 278.5 16.5 L 294.5 16.5 L 294.5 32.5 L 278.5 32.5 L 278.5 16.5 L 262.5 16.5 L 246.5 16.5 L 246.5 32.5 L 230.5 32.5 L 230.5 48.5 L 246.5 48.5 L 246.5 32.5 L 246.5 16.5 L 230.5 16.5 L 230.5 32.5 L 246.5 32.5 L 246.5 48.5 L 230.5 48.5 L 230.5 32.5 L 246.5 32.5 L 246.5 16.5 L 262.5 16.5 L 262.5 32.5 L 262.5 48.5 L 246.5 48.5 L 230.5 48.5 L 214.5 48.5 L 198.5 48.5 L 182.5 48.5 L 182.5 64.5" />
+        <animateMotion dur="18.98s" repeatCount="indefinite" path="M 182.5 64.5 L 166.5 64.5 L 166.5 48.5 L 150.5 48.5 L 134.5 48.5 L 134.5 32.5 L 118.5 32.5 L 118.5 16.5 L 102.5 16.5 L 86.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 70.5 32.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 86.5 16.5 L 102.5 16.5 L 102.5 32.5 L 118.5 32.5 L 118.5 48.5 L 102.5 48.5 L 102.5 64.5 L 118.5 64.5 L 118.5 48.5 L 102.5 48.5 L 102.5 32.5 L 102.5 16.5 L 86.5 16.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 86.5 48.5 L 86.5 32.5 L 70.5 32.5 L 54.5 32.5 L 54.5 16.5 L 70.5 16.5 L 70.5 32.5 L 54.5 32.5 L 54.5 48.5 L 70.5 48.5 L 70.5 32.5 L 86.5 32.5 L 86.5 48.5 L 70.5 48.5 L 70.5 32.5 L 70.5 16.5 L 54.5 16.5 L 54.5 32.5 L 70.5 32.5 L 70.5 16.5 L 86.5 16.5 L 102.5 16.5 L 118.5 16.5 L 118.5 32.5 L 134.5 32.5 L 150.5 32.5 L 166.5 32.5 L 182.5 32.5 L 198.5 32.5 L 198.5 48.5 L 182.5 48.5 L 166.5 48.5 L 150.5 48.5 L 150.5 64.5 L 166.5 64.5 L 166.5 48.5 L 182.5 48.5 L 198.5 48.5 L 198.5 64.5 L 182.5 64.5 L 182.5 80.5 L 198.5 80.5 L 198.5 64.5 L 182.5 64.5 L 182.5 48.5 L 166.5 48.5 L 166.5 32.5 L 150.5 32.5 L 150.5 48.5 L 166.5 48.5 L 182.5 48.5 L 182.5 32.5 L 166.5 32.5 L 150.5 32.5 L 150.5 48.5 L 150.5 64.5 L 166.5 64.5 L 182.5 64.5 L 182.5 48.5 L 166.5 48.5 L 166.5 64.5 L 150.5 64.5 L 150.5 80.5 L 150.5 96.5 L 166.5 96.5 L 166.5 112.5 L 182.5 112.5 L 182.5 96.5 L 182.5 80.5 L 182.5 64.5 L 166.5 64.5 L 150.5 64.5 L 166.5 64.5 L 182.5 64.5" />
       </circle>
     </g>
   <text x="437.0" y="144" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-style="italic" font-weight="700" fill="#8b949e">Every contribution leaves a mark.</text>
